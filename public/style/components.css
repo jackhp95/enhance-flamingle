@@ -1,0 +1,89 @@
+.flip {
+  color: hsl(
+    calc(var(--canvas-h-live, 0) + var(--canvas-h)),
+    calc(calc(var(--canvas-c-live, 0) + var(--canvas-c)) * 100%)
+      calc(calc(var(--canvas-l-live, 0) + var(--canvas-l)) * 100%)
+      \calc(var(--canvas-a-live, 0) + var(--canvas-a))
+  );
+  background-color: hsl(
+    calc(var(--fg-h-live, 0) + var(--fg-h))
+      calc(calc(var(--fg-c-live, 0) + var(--fg-c)) * 100%)
+      calc(calc(var(--fg-l-live, 0) + var(--fg-l)) * 100%)
+      \calc(var(--fg-a-live, 0) + var(--fg-a))
+  );
+}
+.link {
+  --fg-c: 0.05;
+}
+.link:active {
+  --fg-c: 0.5;
+}
+.link:where(:hover, :focus) {
+  --fg-h: var(--link-h);
+  --fg-c: 1;
+  --fg-l: 0.5;
+  color: hsl(
+    calc(var(--fg-h-live, 0) + var(--fg-h))
+      calc(calc(var(--fg-c-live, 0) + var(--fg-c)) * 100%)
+      calc(calc(var(--fg-l-live, 0) + var(--fg-l)) * 100%) /
+      calc(var(--fg-a-live, 0) + var(--fg-a, 1))
+  );
+}
+
+.line {
+  --fg-h: var(--link-h);
+  --fg-c: 1;
+  --fg-l: 0.5;
+  text-decoration-color: hsl(
+    calc(var(--fg-h-live, 0) + var(--fg-h))
+      calc(calc(var(--fg-c-live, 0) + var(--fg-c)) * 100%)
+      calc(calc(var(--fg-l-live, 0) + var(--fg-l)) * 100%) /
+      calc(var(--fg-a-live, 0) + var(--fg-a, 1))
+  );
+  text-decoration: underline;
+  text-decoration-thickness: from-font;
+  text-underline-offset: 2px;
+}
+
+/* Basic Component */
+.box {
+  padding: calc(1em - 0.5rem) calc(2em - 1rem);
+  width: max-content;
+  border-radius: calc(0.5em - 0.25rem);
+}
+
+/* MAKE THIS REAL */
+
+/* icon components  */
+.icon--squircle {
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+  --icon: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjIwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KCiAgPHBhdGggZD0iTSAxMDAgMCBDIDIwIDAgMCAyMCAwIDEwMCBDIDAgMTgwIDIwIDIwMCAxMDAgMjAwIEMgMTgwIDIwMCAyMDAgMTgwIDIwMCAxMDAgQyAyMDAgMjAgMTgwIDAgMTAwIDAgWiIvPgoKPC9zdmc+);
+}
+
+.icon {
+  display: flex;
+  height: 1em;
+  background-color: currentColor;
+  aspect-ratio: 1/1;
+  -webkit-mask-position: center;
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-size: contain;
+  -webkit-mask-image: var(--icon);
+  mask-position: center;
+  mask-repeat: no-repeat;
+  mask-size: contain;
+  mask-image: var(--icon);
+}
+
+a:where([href*="seatgeek.com"i]) {
+  --act-h: 6;
+  --act-c: 1;
+  --act-l: 0.64;
+  --act: hsl(
+    calc(var(--act-h-live, 0) + var(--act-h))
+      calc(calc(var(--act-c-live, 0) + var(--act-c)) * 100%)
+      calc(calc(var(--act-l-live, 0) + var(--act-l)) * 100%) /
+      calc(var(--act-a-live, 0) + var(--act-a, 1))
+  );
+}

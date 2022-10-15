@@ -1,0 +1,35 @@
+<main-layout>
+    <div class="relative flex flex-col justify-center flex-auto max-w-md px-4 pt-20 mx-auto sm:py-24 lg:py-32">
+        <h1 class="text-4xl font-bold leading-none tracking-tight md:text-5xl lg:text-6xl text-act">
+            Find Events,<br>
+            Make Friends</h1>
+        <p class="max-w-3xl mx-1 mx-auto leading-relaxed my-edge text-a-70">Flamingle is a website for people
+            who want to keep their pulse on exciting events happening in their town and meet new people who are
+            going to those events.</p>
+        <form
+            action="/events/"
+            class="relative flex w-full max-w-lg overflow-hidden text-2xl transition-all ease-out border-2 rounded-lg int:bg-canvas int:opacity-100 opacity-60 int:border-act"
+        >
+            <label
+                for="search"
+                class="sr-only"
+            >Search</label>
+            <input
+                id="postal-code"
+                name="zip"
+                autocomplete="postal-code"
+                autofocus
+                class="!ring-0 bg-transparent !leading-none p-0 m-0 text-em border-none h-full w-full outline-none max-w-full
+            flex-auto block px-4 py-3 font-bold text-current rounded-lg placeholder-a-50"
+                placeholder="Enter Zip"
+                type="search"
+            >
+            <button
+                class="absolute inset-y-0 right-0 z-10 flex items-center p-4 text-base font-bold transition-all ease-out border-l pointer-events-none border-inherit text-fg whitespace-nowrap int:bg-act"
+                type="submit"
+            >
+                Find Events
+            </button>
+        </form>
+    </div>
+</main-layout>

@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@layer components {
+  /* ===== Scrollbar CSS ===== */
+
+  :root {
+    --scrollbar-thumb-border-color: var(--bg, var(--canvas));
+    --scrollbar-thumb-border-width: 6px;
+    --scrollbar-thumb-rounded: 999px;
+
+    --scrollbar-track-size: 1rem;
+    --scrollbar-track-color: var(--bg, var(--canvas));
+    --scrollbar-track-border-color: var(--bg, var(--canvas));
+
+    background-color: var(--bg, var(--canvas));
+  }
+  .thin-scrollbar {
+    --scrollbar-thumb-color: hsl(
+      var(--fg-h) calc(var(--fg-c) * 100%) calc(var(--fg-l) * 100%) /
+        calc(var(--fg-a) * 50%)
+    );
+    --scrollbar-thumb-border-color: var(--border, var(--fg));
+    --scrollbar-thumb-border-width: 0px;
+    --scrollbar-track-color: transparent;
+    --scrollbar-track-size: 2px;
+    --scrollbar-thumb-rounded: 0;
+  }
+
+  @media (pointer: fine) {
+    /* Firefox */
+    * {
+      accent-color: var(--act);
+      scrollbar-width: var(--scrollbar-track-size);
+      scrollbar-color: var(--scrollbar-thumb-color) var(--scrollbar-track-color);
+    }
+
+    /* Chrome, Edge, and Safari */
+    *::-webkit-scrollbar {
+      width: var(--scrollbar-track-size);
+      height: var(--scrollbar-track-size);
+    }
+
+    *::-webkit-scrollbar-track {
+      background: var(--scrollbar-track-color);
+      border: var(--scrollbar-track-border-width) solid
+        var(--scrollbar-track-border-color);
+    }
+
+    *::-webkit-scrollbar-thumb {
+      background-color: var(--scrollbar-thumb-color);
+
+      background-attachment: local;
+      border-radius: var(--scrollbar-thumb-rounded);
+      border: var(--scrollbar-thumb-border-width) solid
+        var(--scrollbar-thumb-border-color);
+    }
+
+    *::-webkit-scrollbar-thumb:hover {
+      background-image: linear-gradient(
+        to bottom left,
+        hsl(
+          calc(var(--act-h) + 10) calc(var(--act-c) * 100%)
+            calc(var(--act-l) * 100%) / calc(var(--act-a) * 100%)
+        ),
+        hsl(
+          calc(var(--act-h) - 10) calc(var(--act-c) * 100%)
+            calc(var(--act-l) * 100%) / calc(var(--act-a) * 100%)
+        )
+      );
+    }
+  }
+}
+@tailwind utilities;

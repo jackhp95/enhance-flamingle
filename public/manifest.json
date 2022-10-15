@@ -1,0 +1,31 @@
+{
+    "dir": "auto",
+    "lang": "en-us",
+    "icons": [
+        {
+            "src": "/_static/logo.svg",
+            "type": "image/svg+xml",
+            "sizes": "16x16 32x32 96x96 180x180 300x300 512x512",
+            "purpose": "any maskable"
+        }
+    ],
+    "background_color": "#000000",
+    "orientation": "portrait",
+    "display": "standalone",
+    "categories": [
+        "lifestyle",
+        "entertainment",
+        "music",
+        "social",
+        "sports",
+        "travel"
+    ],
+    "description": "Flamingle is for people who want to keep their pulse on exciting events happening in their town and meet new people.",
+    "name": "https://www.FlamingleSocial.com",
+    "prefer_related_applications": false,
+    "related_applications": [],
+    "theme_color": "#ffffff",
+    "start_url": "/.",
+    "short_name": "Flamingle",
+    "scope": "/"
+}

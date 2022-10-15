@@ -1,0 +1,34 @@
+<main-layout>
+  <section
+    id="$guest"
+    class="hidden min-h-full flex flex-col justify-center py-12 sm:px-6 lg:px-8"
+  >
+    <header class="sm:mx-auto sm:w-full sm:max-w-md">
+      <div class="mx-auto icon logo text-6xl"></div>
+      <h2 class="mt-6 text-center text-3xl font-extrabold text-a-90">
+        Your Account
+      </h2>
+      <p class="mt-2 text-center text-sm opacity-60">
+        <strong>Create an Account</strong> or <strong>Login</strong>
+      </p>
+    </header>
+    <div class="mt-8 sm:mx-auto sm:w-full sm:max-w-md">
+      <div class="bg-canvas border overflow-hidden border-a-10 int:border-a-20 py-8 px-4 shadow sm:rounded-xl sm:px-10">
+        <auth-form></auth-form>
+      </div>
+    </div>
+  </section>
+  <section
+    class="hidden"
+    id="$user"
+  >
+    <user-profile></user-profile>
+  </section>
+  <script type="module">
+    addEventListener("user:init", async () => (
+      user
+        ? ($guest.classList.add("hidden"), $user.classList.remove("hidden"))
+        : ($user.classList.add("hidden"), $guest.classList.remove("hidden"))
+    ));
+  </script>
+</main-layout>
