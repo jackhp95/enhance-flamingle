@@ -1,6 +1,32 @@
 /** @type {import('tailwindcss').Config} */
 const defaultTheme = require("tailwindcss/defaultTheme");
-const colors = require("tailwindcss/colors");
+const defaultColors = require("tailwindcss/colors");
+const colors = Object.fromEntries(
+  [
+    "slate",
+    "gray",
+    "zinc",
+    "neutral",
+    "stone",
+    "red",
+    "orange",
+    "amber",
+    "yellow",
+    "lime",
+    "green",
+    "emerald",
+    "teal",
+    "cyan",
+    "sky",
+    "blue",
+    "indigo",
+    "violet",
+    "purple",
+    "fuchsia",
+    "pink",
+    "rose",
+  ].map((x) => [x, defaultColors[x]])
+);
 
 function hexToHSL(H) {
   // Convert hex to RGB first
@@ -45,7 +71,7 @@ function hexToHSL(H) {
 }
 
 const twHsl = JSON.parse(
-  JSON.stringify(colors).replace(/\"(#[0-9a-fA-F]+)\"/g, (_, hex) =>
+  JSON.stringify(colors).replace(/"(#[0-9a-fA-F]+)"/g, (_, hex) =>
     JSON.stringify(hexToHSL(hex))
   )
 );
@@ -104,7 +130,7 @@ module.exports = {
         Mark: "Mark", // Background of text that has been specially marked (such as by the HTML mark element)
         MarkText: "MarkText", // Text that has been specially marked (such as by the HTML mark element)
         VisitedText: "VisitedText", // Text of visited links
-        // Brands 
+        // Brands
         SeatGeek: "#ff5b49",
       },
       spacing: {
@@ -120,11 +146,22 @@ module.exports = {
     require("tailwindcss/plugin")(function ({
       matchUtilities,
       addBase,
+      addComponents,
       addVariant,
       theme,
     }) {
+      addComponents({
+        ".box": {
+          padding: "calc(1em - 0.5rem) calc(2em - 1rem)",
+          width: "max-content",
+          "border-radius": "calc(0.5em - 0.25rem)",
+        },
+      });
       addVariant("int", "&:is(*:focus-visible,*:focus-within,*:hover)");
-      addVariant("group-int", ".group:is(*:focus-visible,*:focus-within,*:hover) &");
+      addVariant(
+        "group-int",
+        ".group:is(*:focus-visible,*:focus-within,*:hover) &"
+      );
       const utilPropCtx = [
         // background
         ["canvas", "--canvas", "canvas"],

@@ -10,7 +10,7 @@ export default function FourOhFour({ html, state }) {
           class="flex-grow flex flex-col justify-center max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8"
         >
           <div class="flex-shrink-0 flex justify-center">
-            <a href="/" class="inline-flex icon logo text-6xl"
+            <a href="/" class="inline-flex icon solid map text-6xl"
               ><span class="sr-only">Flamingle</span></a
             >
           </div>
@@ -22,11 +22,11 @@ export default function FourOhFour({ html, state }) {
                 404 error
               </p>
               <h1
-                class="mt-2 text-4xl font-extrabold text-neutral-100 tracking-tight sm:text-5xl"
+                class="mt-2 text-4xl font-extrabold text-a-90 tracking-tight sm:text-5xl"
               >
                 Page not found.
               </h1>
-              <p class="mt-2 text-base text-neutral-500">
+              <p class="mt-2 text-base text-a-50">
                 Sorry, we couldn’t find the page you’re looking for.
               </p>
               <div class="mt-6">
@@ -45,23 +45,23 @@ export default function FourOhFour({ html, state }) {
           <nav class="flex justify-center space-x-4">
             <a
               href="mailto:flaminglesocial.com@gmail.com"
-              class="text-sm font-medium text-neutral-500 hover:text-neutral-400"
+              class="text-sm font-medium text-a-50 hover:text-a-60"
               >Email Support</a
             ><span
-              class="inline-block border-l border-neutral-700"
+              class="inline-block border-l border-a-70"
               aria-hidden="true"
             ></span
             ><a
               href="https://www.isitdownrightnow.com/flaminglesocial.com.html"
-              class="text-sm font-medium text-neutral-500 hover:text-neutral-400"
+              class="text-sm font-medium text-a-50 hover:text-a-60"
               >Status</a
             ><span
-              class="inline-block border-l border-neutral-700"
+              class="inline-block border-l border-a-70"
               aria-hidden="true"
             ></span
             ><a
               href="https://twitter.com/FlamingleSocial"
-              class="text-sm font-medium text-neutral-500 hover:text-neutral-400"
+              class="text-sm font-medium text-a-50 hover:text-a-60"
               >Twitter</a
             >
           </nav>

@@ -45,14 +45,6 @@
   text-underline-offset: 2px;
 }
 
-/* Basic Component */
-.box {
-  padding: calc(1em - 0.5rem) calc(2em - 1rem);
-  width: max-content;
-  border-radius: calc(0.5em - 0.25rem);
-}
-
-/* MAKE THIS REAL */
 
 /* icon components  */
 .icon--squircle {
@@ -86,4 +78,23 @@ a:where([href*="seatgeek.com"i]) {
       calc(calc(var(--act-l-live, 0) + var(--act-l)) * 100%) /
       calc(var(--act-a-live, 0) + var(--act-a, 1))
   );
+}
+
+/* 
+on touchscreen devices, 
+allow hiding the footer when certain areas are focused.
+via the `.focus-within:hide-footer` class
+*/
+@media screen and (pointer:coarse) {
+  :where(main-footer) {
+    transition-property: all;
+    transition-timing-function: cubic-bezier(1, 0, 1, 0);
+    transition-duration: 150ms;
+    max-height: 100vh;
+  }
+  /* class="focus-within:hide-footer" */
+  :where(body:has(.focus-within\:hide-footer:focus-within) main-footer) {
+    transition-timing-function: cubic-bezier(0, 1, 0, 1);
+    max-height: 0;
+  }
 }

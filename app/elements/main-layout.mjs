@@ -1,7 +1,7 @@
 export default function layout({ html, state }) {
   return html`
     <div
-      class="bg-black border-r border-white border-opacity-20 text-white
+      class="
           h-screen min-h-screen w-full max-w-full 
           flex flex-col sm:flex-row-reverse gap-x-px"
     >
@@ -10,7 +10,7 @@ export default function layout({ html, state }) {
           <slot></slot>
         </div>
       </main>
-      <main-footer class="flex-none"></main-footer>
+      <main-footer class="flex-none border-t sm:border-0 sm:border-r border-a-20"></main-footer>
     </div>
   `;
 }

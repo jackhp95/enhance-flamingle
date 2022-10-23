@@ -20,13 +20,18 @@ export default function eventPreview({ html, state }) {
   return html`<a
     href="/events/seatgeek/${sgId}"
     id="/events/seatgeek/${sgId}"
-    class="group relative focus:ring-2 transition-all sm:pb-0 ring-1 ring-white focus:ring-act hover:ring-opacity-100 ring-opacity-10 sm:ring-opacity-20 rounded sm:rounded-lg flex flex-col overflow-hidden ${images.length ? "row-span-2" : ""}"
+    class="group relative focus:ring-2 transition-all sm:pb-0 ring-1 ring-fg focus:ring-act hover:ring-a-100 fg-a-10 sm:fg-a-20 rounded sm:rounded-lg flex flex-col overflow-hidden ${images.length
+      ? "row-span-2"
+      : ""}"
   >
-    <div
-      class="bg-opacity-20 opacity-90 group-hover:opacity-100 overflow-x-scroll thin-scrollbar flex snap-x snap-mandatory"
-    >
-      ${images.map(asImg).join("")}
-    </div>
+    ${images.length ?
+    html`
+      <div
+        class="bg-opacity-20 dark:opacity-90 group-hover:opacity-100 overflow-x-scroll thin-scrollbar flex snap-x snap-mandatory"
+      >
+        ${images.map(asImg).join("")}
+      </div>
+    ` : ""}
     <div class="flex-1 p-4 space-y-2 flex flex-col">
       <h3 class="font-medium opacity-90 text-sm">${title}</h3>
       <div class="flex-1 flex flex-col justify-end text-xs">

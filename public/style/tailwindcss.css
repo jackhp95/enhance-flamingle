@@ -7,18 +7,21 @@
     --scrollbar-thumb-border-color: var(--bg, var(--canvas));
     --scrollbar-thumb-border-width: 6px;
     --scrollbar-thumb-rounded: 999px;
+    --scrollbar-thumb-color: hsl(
+      var(--fg-h) calc(var(--fg-c) * 100%) calc(var(--fg-l) * 100%) /
+        calc(var(--fg-a) * 25%)
+    );
 
     --scrollbar-track-size: 1rem;
     --scrollbar-track-color: var(--bg, var(--canvas));
-    --scrollbar-track-border-color: var(--bg, var(--canvas));
+    --scrollbar-track-border-color: hsl(
+      var(--fg-h) calc(var(--fg-c) * 100%) calc(var(--fg-l) * 100%) /
+        calc(var(--fg-a) * 50%)
+    );
 
     background-color: var(--bg, var(--canvas));
   }
   .thin-scrollbar {
-    --scrollbar-thumb-color: hsl(
-      var(--fg-h) calc(var(--fg-c) * 100%) calc(var(--fg-l) * 100%) /
-        calc(var(--fg-a) * 50%)
-    );
     --scrollbar-thumb-border-color: var(--border, var(--fg));
     --scrollbar-thumb-border-width: 0px;
     --scrollbar-track-color: transparent;

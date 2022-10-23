@@ -7,10 +7,10 @@ export default function chatPreview({ html, state }) {
     commonEvent: "commonEvent",
   };
   return html`<li
-    class="max-w-full m-0 p-0 flex border-b border-opacity-10 border-white"
+    class="max-w-full m-0 p-0 flex border-b border-a-10"
   >
     <user-avi class="m-4 mr-0 text-sm"></user-avi>
-    <a href="#" class="p-4 flex-auto flex flex-col">
+    <a href="#RecentMessages" class="p-4 flex-auto flex flex-col">
       <h1 class="flex gap-2 whitespace-nowrap">
         <span class="leading-tight font-bold">${name}</span>
         <span class="leading-tight opacity-60">${commonEvent}</span>

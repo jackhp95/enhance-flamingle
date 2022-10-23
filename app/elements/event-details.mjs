@@ -8,7 +8,15 @@ export default function eventDetails({ html, state }) {
     width="280"
     height="210"
   />`;
-  let { title, location, dateTime, relativeTime, images } = sge || {
+  let {
+    title,
+    full_location,
+    dateTime,
+    relativeTime,
+    images,
+    short_description,
+    long_description,
+  } = sge || {
     title: "title",
     location: "location",
     dateTime: "dateTime",
@@ -41,8 +49,13 @@ export default function eventDetails({ html, state }) {
                 class="sticky bottom-0 z-10 flex flex-col items-stretch order-9 gap-4 p-4 text-center border-y border-a-10 lg:rounded bg-a-50 backdrop-blur lg:border bg-canvas top-edge"
               >
                 <p>
-                  <a href="https://seatgeek.com/" class="line int:text-act">SeatGeek</a> has tickets for
-                  $${sge.stats.lowest_price}
+                  <a
+                    href="https://seatgeek.com/"
+                    target="_BLANK"
+                    class="line int:text-act"
+                    >SeatGeek</a
+                  >
+                  has tickets for $${sge.stats.lowest_price}
                 </p>
                 <a
                   target="_BLANK"
@@ -61,10 +74,7 @@ export default function eventDetails({ html, state }) {
       <img src="" alt="" />
       <time class="text-lg">Oct 29</time>
       <h1 class="text-5xl">${title}</h1>
-      <p>
-        Join us the Saturday before Halloween for a haunted evening of music,
-        dancing, wine and more!
-      </p>
+      ${short_description ? html`<p>${short_description}</p>` : ""}
       <section class="flex items-center gap-edge">
         <p>By <a href="">Cedar Lake Cellars</a></p>
         <form action="" class="flex items-center gap-4">
@@ -76,12 +86,17 @@ export default function eventDetails({ html, state }) {
       <div class="flex gap-edge">
         <section>
           <h3>Date and time</h3>
-          <time>Sat, October 29, 2022, 7:00 PM – 11:00 PM CDT</time>
+          <time datetime="${sge.datetime_local}">${new Intl.DateTimeFormat(
+    "en-US",
+    { dateStyle: "full", timeStyle: "short" }
+  ).format(new Date(sge.datetime_local))}</time>
         </section>
         <section>
           <h3>Location</h3>
           <p>
-            Cedar Lake Cellars 11008 Schreckengast Road Wright City, MO 63390
+            <b>${sge.venue.name}</b> <i class="inline-block">${
+    sge.venue.address
+  }, ${sge.venue.extended_address}</i>
           </p>
           <label
             for="map-toggle"
@@ -100,7 +115,7 @@ export default function eventDetails({ html, state }) {
             class="hidden peer"
           />
           <div
-            class="peer-checked:w-0 peer-checked:opacity-0 opacity-100 transition-all ease-out w-full max-w-full rounded bg-gradient-to-tr from-neutral-900 aspect-[16/9] border"
+            class="peer-checked:w-0 peer-checked:opacity-0 opacity-100 transition-all ease-out w-full max-w-full rounded bg-gradient-to-tr from-a-90 aspect-[16/9] border"
           ></div>
         </div>
         <h4>How to get there</h4>
@@ -111,21 +126,14 @@ export default function eventDetails({ html, state }) {
           <span class="icon star">bike</span>
         </menu>
       </div>
-      <section>
-        <h2>About this event</h2>
-        <p>
-          Gather your friends and get ready to party Halloween-style with the
-          Retro Boogie Band! Treat yourself to your drink of choice from The
-          Barrel Room’s full bar and delicious food from our Smokehouse or
-          Burger Shack. Dress to impress - the best Halloween costume will win
-          an awesome prize!
-        </p>
-        <p>Featured Drink: Black Widow Wine Slushy</p>
-        <p>
-          Please Note: All guests must be at least 21 years of age. This is a
-          free and open event. All seating is first come, first served.
-        </p>
-      </section>
+      ${
+        long_description
+          ? html`<section>
+              <h2>About this event</h2>
+              ${long_description}
+            </section>`
+          : ""
+      }
       <section>
         <h2>Share with Friends</h2>
         <nav class="flex gap-4 text-3xl">
@@ -155,6 +163,11 @@ export default function eventDetails({ html, state }) {
           >
         </nav>
       </section>
+      <details>
+        <summary class="icon code-bracket"></summary>
+        <pre class="bg-inherit text-inherit font-mono">${JSON.stringify(store, null, 4)}</pre>
+      </details>
     </section>
-  </main>`;
+  </main>
+  `;
 }
