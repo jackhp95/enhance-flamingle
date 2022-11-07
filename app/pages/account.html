@@ -1,6 +1,6 @@
 <main-layout>
   <section
-    id="$guest"
+    id="$login"
     class="hidden min-h-full flex flex-col justify-center py-12 sm:px-6 lg:px-8"
   >
     <header class="sm:mx-auto sm:w-full sm:max-w-md">
@@ -18,17 +18,20 @@
       </div>
     </div>
   </section>
-  <section
-    class="hidden"
-    id="$user"
-  >
-    <user-profile></user-profile>
-  </section>
   <script type="module">
-    addEventListener("user:init", async () => (
-      user
-        ? ($guest.classList.add("hidden"), $user.classList.remove("hidden"))
-        : ($user.classList.add("hidden"), $guest.classList.remove("hidden"))
-    ));
+    addEventListener("user:init", async () => {
+      if (user) {
+        let { data: profile, error } = await supabase
+          .from("profiles")
+          .select("handle")
+          .limit(1)
+          .single()
+          .eq("id", user.id);
+
+        location.replace(profile.handle);
+      } else {
+        $login.classList.remove("hidden");
+      }
+    });
   </script>
 </main-layout>

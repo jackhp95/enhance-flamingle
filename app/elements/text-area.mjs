@@ -22,7 +22,6 @@ export default function textArea({ html, state }) {
       [...document.querySelectorAll("text-area")].forEach((el) => {
         const textarea = el.querySelector("textarea");
         const resizer = textarea.nextElementSibling;
-        console.log({ resizer, textarea });
         textarea.value = resizer.textContent;
       });
     </script>

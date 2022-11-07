@@ -1,4 +1,4 @@
-export default function chatBubble({ html, state }) {
+export default function userProfile({ html, state }) {
   return html`
     <!-- Profile header -->
     <div class="relative cursor-pointer">
@@ -17,35 +17,43 @@ export default function chatBubble({ html, state }) {
     </div>
     <div class="max-w-5xl mx-auto px-edge">
       <div class="flex flex-wrap-reverse pb-3">
-        <div
-          class="flex-auto flex flex-col gap-edge"
-        >
+        <div class="flex-auto flex flex-col gap-edge">
           <label
             class="relative -mt-16 cursor-pointer flex items-center justify-center text-4xl transition-all ease-out int:text-5xl int:bg-act bg-canvas h-24 w-24 rounded-full ring-4 ring-canvas sm:h-32 sm:w-32"
           >
             <input type="file" class="hidden" />
-            <span class="absolute inset-0 bg-mute-10 rounded-full"></span>
-            <span class="icon camera"></span>
+            <div class="absolute inset-0 bg-mute-10 rounded-full"></div>
+            <div class="icon camera"></div>
+            <div
+              id="$avi"
+              class="absolute inset-0 bg-center bg-cover rounded-full"
+            ></div>
           </label>
           <div class="flex flex-col min-w-0 gap-1 flex-auto">
-            <div class="focus-within:box w-max focus-within:bg-canvas focus-within:ring-1 ring-transparent sm:ring-fg fg-a-20 focus-within:ring-a-100 sm:fg-a-20 transition-all ease-out">
-                <input
+            <div
+              class="focus-within:box w-max focus-within:bg-canvas focus-within:ring-1 ring-transparent sm:ring-fg fg-a-20 focus-within:ring-a-100 sm:fg-a-20 transition-all ease-out"
+            >
+              <input
+                id="$name"
                 type="text"
                 class="text-3xl font-bold text-a-90 min-w-max leading-none
                 "
                 placeholder="Your Name"
                 value="Ricardo Cooper"
-                />
+              />
             </div>
-            <div class="focus-within:box w-max focus-within:bg-canvas focus-within:ring-1 ring-transparent sm:ring-fg fg-a-20 focus-within:ring-a-100 sm:fg-a-20 transition-all ease-out">
-                <label for="" class="text-base text-a-60 min-w-max leading-none">
-                    @<input
-                    type="text"
-                    class="leading-none"
-                    placeholder="your_username"
-                    value="username"
-                    />
-                </label>
+            <div
+              class="focus-within:box w-max focus-within:bg-canvas focus-within:ring-1 ring-transparent sm:ring-fg fg-a-20 focus-within:ring-a-100 sm:fg-a-20 transition-all ease-out"
+            >
+              <label for="" class="text-base text-a-60 min-w-max leading-none">
+                @<input
+                  id="$handle"
+                  type="text"
+                  class="leading-none"
+                  placeholder="your_username"
+                  value="username"
+                />
+              </label>
             </div>
           </div>
         </div>
@@ -72,15 +80,18 @@ export default function chatBubble({ html, state }) {
           id="$selfMenu"
           class="hidden flex justify-stretch flex-row gap-4 mt-edge ml-auto"
         >
+          <noscript>
+            <button
+              type="button"
+              class="flex gap-2 leading-none items-center justify-center box border border-a-10 int:border-act shadow-sm sm:text-sm font-medium h-min text-a-70 bg-mute-5 int:bg-a-50 focus:outline-none focus:ring-2 focus:ring-act"
+            >
+              <span class="icon check"></span>
+              <span class="hidden sm:inline">Save</span>
+            </button>
+          </noscript>
           <button
             type="button"
-            class="flex gap-2 leading-none items-center justify-center box border border-a-10 int:border-act shadow-sm sm:text-sm font-medium h-min text-a-70 bg-mute-5 int:bg-a-50 focus:outline-none focus:ring-2 focus:ring-act"
-          >
-            <span class="icon check"></span>
-            <span class="hidden sm:inline">Save</span>
-          </button>
-          <button
-            type="button"
+            onclick="supabase.auth.signOut()"
             class="flex gap-2 leading-none items-center justify-center box border border-a-10 int:border-act shadow-sm sm:text-sm font-medium h-min text-a-70 bg-mute-5 int:bg-a-50 focus:outline-none focus:ring-2 focus:ring-act"
           >
             <span class="icon arrow-up-tray"></span>
@@ -158,8 +169,48 @@ export default function chatBubble({ html, state }) {
       class="[#radioAccountTab:checked~&]:flex hidden mt-6 max-w-5xl mx-auto px-edge pb-12 flex-col gap-8"
     >
       <!-- Description list -->
-      <user-info></user-info>
+      <div>
+        <section class="grid grid-cols-1 gap-x-4 gap-y-8 sm:grid-cols-2">
+          ${[
+            ["birthday", "bar"],
+            ["joined", "bar"],
+          ]
+            .map(
+              ([k, v]) => html`
+                <label
+                  class="flex flex-col gap-1 h-12 sm:col-span-1 group w-max"
+                >
+                  <span
+                    class="text-sm font-medium text-a-50 transition ease-out group-focus-within:text-act"
+                    >${k}</span
+                  >
+                  <input
+                    id="$${k}"
+                    type="text"
+                    class="
+                text-sm text-a-90 group-focus-within:box w-max group-focus-within:bg-canvas
+                group-focus-within:ring-1 ring-transparent sm:ring-fg fg-a-20 group-focus-within:ring-a-100 sm:fg-a-20 transition-all ease-out
+                "
+                    value="${v}"
+                  />
+                </label>
+              `
+            )
+            .join("")}
 
+          <label class="sm:col-span-2 flex flex-col gap-1 group w-max">
+            <span
+              class="text-sm font-medium text-a-50 transition ease-out group-focus-within:text-act"
+              >Bio</span
+            >
+            <text-area
+              id="$bio"
+              placeholder="About Yourself"
+              class="text-a-60 group-focus-within:box w-max group-focus-within:bg-canvas flex-auto group-focus-within:ring-1 ring-transparent sm:ring-fg fg-a-20 group-focus-within:ring-a-100 sm:fg-a-20 transition-all ease-out"
+            ></text-area>
+          </label>
+        </section>
+      </div>
       <!-- Team member list -->
       <section>
         <h2 class="text-sm font-medium text-a-50">Connections</h2>
@@ -222,5 +273,43 @@ export default function chatBubble({ html, state }) {
     >
       <state-wip class="mt-32"></state-wip>
     </div>
+    <script type="module">
+      // TODO: Move this to the server level, not the client.
+      // this was just a PROTO
+      addEventListener("user:init", async () => {
+        // Get user profile
+        let { data: profile, error } = await supabase
+          .from("profiles")
+          .select("*")
+          .limit(1)
+          .single()
+          .eq("handle", location.pathname.split("/").at(-1));
+        user.profile = profile;
+        // Update DOM
+        const setProfileData = () => {
+          $handle.value = profile.handle;
+          $name.value = profile.name;
+          $avi.style.backgroundImage = "url('" + profile.avatar_url + "')";
+
+          $birthday.value = new Intl.DateTimeFormat("en-US", {
+            month: "long",
+            day: "numeric",
+            timeZone: "UTC",
+          }).format(new Date(profile.birthday));
+
+          $joined.value = new Intl.DateTimeFormat("en-US", {
+            dateStyle: "long",
+          }).format(new Date(profile.created_at));
+
+          const ta = $bio.querySelector("textarea");
+          ta.value = profile.bio;
+          ta.dispatchEvent(new Event("input"));
+        };
+        setProfileData();
+
+        // show once rendered
+        $user.classList.remove("hidden");
+      });
+    </script>
   `;
 }

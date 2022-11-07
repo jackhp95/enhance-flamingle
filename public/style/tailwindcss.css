@@ -1,8 +1,20 @@
 @tailwind base;
 @tailwind components;
+
+@layer components {
+  /* ===== Selection CSS ===== */
+  :root {
+    --selection: var(--accent, var(--act));
+    accent-color: var(--accent, var(--act));
+  }
+  *::selection {
+    color: var(--text, var(--fg), currentColor);
+    background-color: var(--selection, var(--accent, var(--act)));
+  }
+}
+
 @layer components {
   /* ===== Scrollbar CSS ===== */
-
   :root {
     --scrollbar-thumb-border-color: var(--bg, var(--canvas));
     --scrollbar-thumb-border-width: 6px;
