@@ -3,7 +3,7 @@
     "lang": "en-us",
     "icons": [
         {
-            "src": "/_static/logo.svg",
+            "src": "/_public/logo.svg",
             "type": "image/svg+xml",
             "sizes": "16x16 32x32 96x96 180x180 300x300 512x512",
             "purpose": "any maskable"

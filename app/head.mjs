@@ -19,26 +19,26 @@ export default function Head(state) {
         />
         <link rel="sitemap" type="application/xml" href="/sitemap.xml" />
         
-        <link rel="stylesheet" href="/_static/style/base.css" />
-        <link rel="stylesheet" href="/_static/style/prose.css" />
-        <link rel="stylesheet" href="/_static/style/components.css" />
-        <link rel="stylesheet" href="/_static/style/icons.css" />
-        <link rel="stylesheet" href="/_static/style/util.css" />
-        <link rel="stylesheet" href="/_static/style/animation.css" />
+        <link rel="stylesheet" href="/_public/style/base.css" />
+        <link rel="stylesheet" href="/_public/style/prose.css" />
+        <link rel="stylesheet" href="/_public/style/components.css" />
+        <link rel="stylesheet" href="/_public/style/icons.css" />
+        <link rel="stylesheet" href="/_public/style/util.css" />
+        <link rel="stylesheet" href="/_public/style/animation.css" />
         <link
           rel="icon"
           sizes="32x32 16x16"
           type="image/svg+xml"
-          href="/_static/logo.svg"
+          href="/_public/logo.svg"
         />
-        <link rel="apple-touch-icon" sizes="160x160" href="/_static/logo.svg" />
+        <link rel="apple-touch-icon" sizes="160x160" href="/_public/logo.svg" />
         <link rel="canonical" href="https://www.FlamingleSocial.com" />
         <meta
           name="description"
           content="Flamingle is for people who want to keep their pulse on exciting events happening in their town and meet new people."
         />
-        <meta property="og:image" content="/_static/logo.svg" />
-        <meta property="og:image:secure_url" content="/_static/logo.svg" />
+        <meta property="og:image" content="/_public/logo.svg" />
+        <meta property="og:image:secure_url" content="/_public/logo.svg" />
         <meta property="og:image:alt" content="Flamingle Logo" />
         <meta property="og:image:width" content="1024" />
         <meta property="og:image:height" content="1024" />
@@ -64,16 +64,16 @@ export default function Head(state) {
           rel="icon"
           sizes="32x32 16x16"
           type="image/svg+xml"
-          href="/_static/logo.svg"
+          href="/_public/logo.svg"
         />
-        <link rel="apple-touch-icon" sizes="160x160" href="/_static/logo.svg" />
+        <link rel="apple-touch-icon" sizes="160x160" href="/_public/logo.svg" />
         <link rel="canonical" href="https://www.FlamingleSocial.com" />
         <meta
           name="description"
           content="Flamingle is for people who want to keep their pulse on exciting events happening in their town and meet new people."
         />
-        <meta property="og:image" content="/_static/logo.svg" />
-        <meta property="og:image:secure_url" content="/_static/logo.svg" />
+        <meta property="og:image" content="/_public/logo.svg" />
+        <meta property="og:image:secure_url" content="/_public/logo.svg" />
         <meta property="og:image:alt" content="Flamingle Logo" />
         <meta property="og:image:width" content="1024" />
         <meta property="og:image:height" content="1024" />
@@ -94,7 +94,7 @@ export default function Head(state) {
           content="Flamingle is for people who want to keep their pulse on exciting events happening in their town and meet new people."
         />
         <meta property="og:type" content="website" />
-        <link rel="manifest" href="/_static/manifest.json" />
+        <link rel="manifest" href="/_public/manifest.json" />
         <script type="module">  
           import {createClient} from 'https://cdn.jsdelivr.net/npm/@supabase/supabase-js/+esm';
           const SUPABASE_URL = "https://raoodzmoztwwwcjydatg.supabase.co"

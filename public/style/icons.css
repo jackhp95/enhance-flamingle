@@ -1,2635 +1,2635 @@
 /* Logo */
 .logo {
-    --icon: url('/_static/logo.svg');
+    --icon: url('/_public/logo.svg');
   }
 /* Outline */
 .academic-cap {
-  --icon: url('/_static/icon/outline/academic-cap.svg');
+  --icon: url('/_public/icon/outline/academic-cap.svg');
 }
 .adjustments-horizontal {
-  --icon: url('/_static/icon/outline/adjustments-horizontal.svg');
+  --icon: url('/_public/icon/outline/adjustments-horizontal.svg');
 }
 .adjustments-vertical {
-  --icon: url('/_static/icon/outline/adjustments-vertical.svg');
+  --icon: url('/_public/icon/outline/adjustments-vertical.svg');
 }
 .archive-box {
-  --icon: url('/_static/icon/outline/archive-box.svg');
+  --icon: url('/_public/icon/outline/archive-box.svg');
 }
 .archive-box-arrow-down {
-  --icon: url('/_static/icon/outline/archive-box-arrow-down.svg');
+  --icon: url('/_public/icon/outline/archive-box-arrow-down.svg');
 }
 .archive-box-x-mark {
-  --icon: url('/_static/icon/outline/archive-box-x-mark.svg');
+  --icon: url('/_public/icon/outline/archive-box-x-mark.svg');
 }
 .arrow-down {
-  --icon: url('/_static/icon/outline/arrow-down.svg');
+  --icon: url('/_public/icon/outline/arrow-down.svg');
 }
 .arrow-down-circle {
-  --icon: url('/_static/icon/outline/arrow-down-circle.svg');
+  --icon: url('/_public/icon/outline/arrow-down-circle.svg');
 }
 .arrow-down-left {
-  --icon: url('/_static/icon/outline/arrow-down-left.svg');
+  --icon: url('/_public/icon/outline/arrow-down-left.svg');
 }
 .arrow-down-on-square {
-  --icon: url('/_static/icon/outline/arrow-down-on-square.svg');
+  --icon: url('/_public/icon/outline/arrow-down-on-square.svg');
 }
 .arrow-down-on-square-stack {
-  --icon: url('/_static/icon/outline/arrow-down-on-square-stack.svg');
+  --icon: url('/_public/icon/outline/arrow-down-on-square-stack.svg');
 }
 .arrow-down-right {
-  --icon: url('/_static/icon/outline/arrow-down-right.svg');
+  --icon: url('/_public/icon/outline/arrow-down-right.svg');
 }
 .arrow-down-tray {
-  --icon: url('/_static/icon/outline/arrow-down-tray.svg');
+  --icon: url('/_public/icon/outline/arrow-down-tray.svg');
 }
 .arrow-left {
-  --icon: url('/_static/icon/outline/arrow-left.svg');
+  --icon: url('/_public/icon/outline/arrow-left.svg');
 }
 .arrow-left-circle {
-  --icon: url('/_static/icon/outline/arrow-left-circle.svg');
+  --icon: url('/_public/icon/outline/arrow-left-circle.svg');
 }
 .arrow-left-on-rectangle {
-  --icon: url('/_static/icon/outline/arrow-left-on-rectangle.svg');
+  --icon: url('/_public/icon/outline/arrow-left-on-rectangle.svg');
 }
 .arrow-long-down {
-  --icon: url('/_static/icon/outline/arrow-long-down.svg');
+  --icon: url('/_public/icon/outline/arrow-long-down.svg');
 }
 .arrow-long-left {
-  --icon: url('/_static/icon/outline/arrow-long-left.svg');
+  --icon: url('/_public/icon/outline/arrow-long-left.svg');
 }
 .arrow-long-right {
-  --icon: url('/_static/icon/outline/arrow-long-right.svg');
+  --icon: url('/_public/icon/outline/arrow-long-right.svg');
 }
 .arrow-long-up {
-  --icon: url('/_static/icon/outline/arrow-long-up.svg');
+  --icon: url('/_public/icon/outline/arrow-long-up.svg');
 }
 .arrow-path {
-  --icon: url('/_static/icon/outline/arrow-path.svg');
+  --icon: url('/_public/icon/outline/arrow-path.svg');
 }
 .arrow-path-rounded-square {
-  --icon: url('/_static/icon/outline/arrow-path-rounded-square.svg');
+  --icon: url('/_public/icon/outline/arrow-path-rounded-square.svg');
 }
 .arrow-right {
-  --icon: url('/_static/icon/outline/arrow-right.svg');
+  --icon: url('/_public/icon/outline/arrow-right.svg');
 }
 .arrow-right-circle {
-  --icon: url('/_static/icon/outline/arrow-right-circle.svg');
+  --icon: url('/_public/icon/outline/arrow-right-circle.svg');
 }
 .arrow-right-on-rectangle {
-  --icon: url('/_static/icon/outline/arrow-right-on-rectangle.svg');
+  --icon: url('/_public/icon/outline/arrow-right-on-rectangle.svg');
 }
 .arrow-small-down {
-  --icon: url('/_static/icon/outline/arrow-small-down.svg');
+  --icon: url('/_public/icon/outline/arrow-small-down.svg');
 }
 .arrow-small-left {
-  --icon: url('/_static/icon/outline/arrow-small-left.svg');
+  --icon: url('/_public/icon/outline/arrow-small-left.svg');
 }
 .arrow-small-right {
-  --icon: url('/_static/icon/outline/arrow-small-right.svg');
+  --icon: url('/_public/icon/outline/arrow-small-right.svg');
 }
 .arrow-small-up {
-  --icon: url('/_static/icon/outline/arrow-small-up.svg');
+  --icon: url('/_public/icon/outline/arrow-small-up.svg');
 }
 .arrow-top-right-on-square {
-  --icon: url('/_static/icon/outline/arrow-top-right-on-square.svg');
+  --icon: url('/_public/icon/outline/arrow-top-right-on-square.svg');
 }
 .arrow-trending-down {
-  --icon: url('/_static/icon/outline/arrow-trending-down.svg');
+  --icon: url('/_public/icon/outline/arrow-trending-down.svg');
 }
 .arrow-trending-up {
-  --icon: url('/_static/icon/outline/arrow-trending-up.svg');
+  --icon: url('/_public/icon/outline/arrow-trending-up.svg');
 }
 .arrow-up {
-  --icon: url('/_static/icon/outline/arrow-up.svg');
+  --icon: url('/_public/icon/outline/arrow-up.svg');
 }
 .arrow-up-circle {
-  --icon: url('/_static/icon/outline/arrow-up-circle.svg');
+  --icon: url('/_public/icon/outline/arrow-up-circle.svg');
 }
 .arrow-up-left {
-  --icon: url('/_static/icon/outline/arrow-up-left.svg');
+  --icon: url('/_public/icon/outline/arrow-up-left.svg');
 }
 .arrow-up-on-square {
-  --icon: url('/_static/icon/outline/arrow-up-on-square.svg');
+  --icon: url('/_public/icon/outline/arrow-up-on-square.svg');
 }
 .arrow-up-on-square-stack {
-  --icon: url('/_static/icon/outline/arrow-up-on-square-stack.svg');
+  --icon: url('/_public/icon/outline/arrow-up-on-square-stack.svg');
 }
 .arrow-up-right {
-  --icon: url('/_static/icon/outline/arrow-up-right.svg');
+  --icon: url('/_public/icon/outline/arrow-up-right.svg');
 }
 .arrow-up-tray {
-  --icon: url('/_static/icon/outline/arrow-up-tray.svg');
+  --icon: url('/_public/icon/outline/arrow-up-tray.svg');
 }
 .arrow-uturn-down {
-  --icon: url('/_static/icon/outline/arrow-uturn-down.svg');
+  --icon: url('/_public/icon/outline/arrow-uturn-down.svg');
 }
 .arrow-uturn-left {
-  --icon: url('/_static/icon/outline/arrow-uturn-left.svg');
+  --icon: url('/_public/icon/outline/arrow-uturn-left.svg');
 }
 .arrow-uturn-right {
-  --icon: url('/_static/icon/outline/arrow-uturn-right.svg');
+  --icon: url('/_public/icon/outline/arrow-uturn-right.svg');
 }
 .arrow-uturn-up {
-  --icon: url('/_static/icon/outline/arrow-uturn-up.svg');
+  --icon: url('/_public/icon/outline/arrow-uturn-up.svg');
 }
 .arrows-pointing-in {
-  --icon: url('/_static/icon/outline/arrows-pointing-in.svg');
+  --icon: url('/_public/icon/outline/arrows-pointing-in.svg');
 }
 .arrows-pointing-out {
-  --icon: url('/_static/icon/outline/arrows-pointing-out.svg');
+  --icon: url('/_public/icon/outline/arrows-pointing-out.svg');
 }
 .arrows-right-left {
-  --icon: url('/_static/icon/outline/arrows-right-left.svg');
+  --icon: url('/_public/icon/outline/arrows-right-left.svg');
 }
 .arrows-up-down {
-  --icon: url('/_static/icon/outline/arrows-up-down.svg');
+  --icon: url('/_public/icon/outline/arrows-up-down.svg');
 }
 .at-symbol {
-  --icon: url('/_static/icon/outline/at-symbol.svg');
+  --icon: url('/_public/icon/outline/at-symbol.svg');
 }
 .backspace {
-  --icon: url('/_static/icon/outline/backspace.svg');
+  --icon: url('/_public/icon/outline/backspace.svg');
 }
 .backward {
-  --icon: url('/_static/icon/outline/backward.svg');
+  --icon: url('/_public/icon/outline/backward.svg');
 }
 .banknotes {
-  --icon: url('/_static/icon/outline/banknotes.svg');
+  --icon: url('/_public/icon/outline/banknotes.svg');
 }
 .bars-2 {
-  --icon: url('/_static/icon/outline/bars-2.svg');
+  --icon: url('/_public/icon/outline/bars-2.svg');
 }
 .bars-3 {
-  --icon: url('/_static/icon/outline/bars-3.svg');
+  --icon: url('/_public/icon/outline/bars-3.svg');
 }
 .bars-3-bottom-left {
-  --icon: url('/_static/icon/outline/bars-3-bottom-left.svg');
+  --icon: url('/_public/icon/outline/bars-3-bottom-left.svg');
 }
 .bars-3-bottom-right {
-  --icon: url('/_static/icon/outline/bars-3-bottom-right.svg');
+  --icon: url('/_public/icon/outline/bars-3-bottom-right.svg');
 }
 .bars-3-center-left {
-  --icon: url('/_static/icon/outline/bars-3-center-left.svg');
+  --icon: url('/_public/icon/outline/bars-3-center-left.svg');
 }
 .bars-4 {
-  --icon: url('/_static/icon/outline/bars-4.svg');
+  --icon: url('/_public/icon/outline/bars-4.svg');
 }
 .bars-arrow-down {
-  --icon: url('/_static/icon/outline/bars-arrow-down.svg');
+  --icon: url('/_public/icon/outline/bars-arrow-down.svg');
 }
 .bars-arrow-up {
-  --icon: url('/_static/icon/outline/bars-arrow-up.svg');
+  --icon: url('/_public/icon/outline/bars-arrow-up.svg');
 }
 .battery-0 {
-  --icon: url('/_static/icon/outline/battery-0.svg');
+  --icon: url('/_public/icon/outline/battery-0.svg');
 }
 .battery-100 {
-  --icon: url('/_static/icon/outline/battery-100.svg');
+  --icon: url('/_public/icon/outline/battery-100.svg');
 }
 .battery-50 {
-  --icon: url('/_static/icon/outline/battery-50.svg');
+  --icon: url('/_public/icon/outline/battery-50.svg');
 }
 .beaker {
-  --icon: url('/_static/icon/outline/beaker.svg');
+  --icon: url('/_public/icon/outline/beaker.svg');
 }
 .bell {
-  --icon: url('/_static/icon/outline/bell.svg');
+  --icon: url('/_public/icon/outline/bell.svg');
 }
 .bell-alert {
-  --icon: url('/_static/icon/outline/bell-alert.svg');
+  --icon: url('/_public/icon/outline/bell-alert.svg');
 }
 .bell-slash {
-  --icon: url('/_static/icon/outline/bell-slash.svg');
+  --icon: url('/_public/icon/outline/bell-slash.svg');
 }
 .bell-snooze {
-  --icon: url('/_static/icon/outline/bell-snooze.svg');
+  --icon: url('/_public/icon/outline/bell-snooze.svg');
 }
 .bolt {
-  --icon: url('/_static/icon/outline/bolt.svg');
+  --icon: url('/_public/icon/outline/bolt.svg');
 }
 .bolt-slash {
-  --icon: url('/_static/icon/outline/bolt-slash.svg');
+  --icon: url('/_public/icon/outline/bolt-slash.svg');
 }
 .book-open {
-  --icon: url('/_static/icon/outline/book-open.svg');
+  --icon: url('/_public/icon/outline/book-open.svg');
 }
 .bookmark {
-  --icon: url('/_static/icon/outline/bookmark.svg');
+  --icon: url('/_public/icon/outline/bookmark.svg');
 }
 .bookmark-slash {
-  --icon: url('/_static/icon/outline/bookmark-slash.svg');
+  --icon: url('/_public/icon/outline/bookmark-slash.svg');
 }
 .bookmark-square {
-  --icon: url('/_static/icon/outline/bookmark-square.svg');
+  --icon: url('/_public/icon/outline/bookmark-square.svg');
 }
 .briefcase {
-  --icon: url('/_static/icon/outline/briefcase.svg');
+  --icon: url('/_public/icon/outline/briefcase.svg');
 }
 .bug-ant {
-  --icon: url('/_static/icon/outline/bug-ant.svg');
+  --icon: url('/_public/icon/outline/bug-ant.svg');
 }
 .building-library {
-  --icon: url('/_static/icon/outline/building-library.svg');
+  --icon: url('/_public/icon/outline/building-library.svg');
 }
 .building-office {
-  --icon: url('/_static/icon/outline/building-office.svg');
+  --icon: url('/_public/icon/outline/building-office.svg');
 }
 .building-office-2 {
-  --icon: url('/_static/icon/outline/building-office-2.svg');
+  --icon: url('/_public/icon/outline/building-office-2.svg');
 }
 .building-storefront {
-  --icon: url('/_static/icon/outline/building-storefront.svg');
+  --icon: url('/_public/icon/outline/building-storefront.svg');
 }
 .cake {
-  --icon: url('/_static/icon/outline/cake.svg');
+  --icon: url('/_public/icon/outline/cake.svg');
 }
 .calculator {
-  --icon: url('/_static/icon/outline/calculator.svg');
+  --icon: url('/_public/icon/outline/calculator.svg');
 }
 .calendar {
-  --icon: url('/_static/icon/outline/calendar.svg');
+  --icon: url('/_public/icon/outline/calendar.svg');
 }
 .calendar-days {
-  --icon: url('/_static/icon/outline/calendar-days.svg');
+  --icon: url('/_public/icon/outline/calendar-days.svg');
 }
 .camera {
-  --icon: url('/_static/icon/outline/camera.svg');
+  --icon: url('/_public/icon/outline/camera.svg');
 }
 .chart-bar {
-  --icon: url('/_static/icon/outline/chart-bar.svg');
+  --icon: url('/_public/icon/outline/chart-bar.svg');
 }
 .chart-bar-square {
-  --icon: url('/_static/icon/outline/chart-bar-square.svg');
+  --icon: url('/_public/icon/outline/chart-bar-square.svg');
 }
 .chart-pie {
-  --icon: url('/_static/icon/outline/chart-pie.svg');
+  --icon: url('/_public/icon/outline/chart-pie.svg');
 }
 .chat-bubble-bottom-center {
-  --icon: url('/_static/icon/outline/chat-bubble-bottom-center.svg');
+  --icon: url('/_public/icon/outline/chat-bubble-bottom-center.svg');
 }
 .chat-bubble-bottom-center-text {
-  --icon: url('/_static/icon/outline/chat-bubble-bottom-center-text.svg');
+  --icon: url('/_public/icon/outline/chat-bubble-bottom-center-text.svg');
 }
 .chat-bubble-left {
-  --icon: url('/_static/icon/outline/chat-bubble-left.svg');
+  --icon: url('/_public/icon/outline/chat-bubble-left.svg');
 }
 .chat-bubble-left-ellipsis {
-  --icon: url('/_static/icon/outline/chat-bubble-left-ellipsis.svg');
+  --icon: url('/_public/icon/outline/chat-bubble-left-ellipsis.svg');
 }
 .chat-bubble-left-right {
-  --icon: url('/_static/icon/outline/chat-bubble-left-right.svg');
+  --icon: url('/_public/icon/outline/chat-bubble-left-right.svg');
 }
 .chat-bubble-oval-left {
-  --icon: url('/_static/icon/outline/chat-bubble-oval-left.svg');
+  --icon: url('/_public/icon/outline/chat-bubble-oval-left.svg');
 }
 .chat-bubble-oval-left-ellipsis {
-  --icon: url('/_static/icon/outline/chat-bubble-oval-left-ellipsis.svg');
+  --icon: url('/_public/icon/outline/chat-bubble-oval-left-ellipsis.svg');
 }
 .check {
-  --icon: url('/_static/icon/outline/check.svg');
+  --icon: url('/_public/icon/outline/check.svg');
 }
 .check-badge {
-  --icon: url('/_static/icon/outline/check-badge.svg');
+  --icon: url('/_public/icon/outline/check-badge.svg');
 }
 .check-circle {
-  --icon: url('/_static/icon/outline/check-circle.svg');
+  --icon: url('/_public/icon/outline/check-circle.svg');
 }
 .chevron-double-down {
-  --icon: url('/_static/icon/outline/chevron-double-down.svg');
+  --icon: url('/_public/icon/outline/chevron-double-down.svg');
 }
 .chevron-double-left {
-  --icon: url('/_static/icon/outline/chevron-double-left.svg');
+  --icon: url('/_public/icon/outline/chevron-double-left.svg');
 }
 .chevron-double-right {
-  --icon: url('/_static/icon/outline/chevron-double-right.svg');
+  --icon: url('/_public/icon/outline/chevron-double-right.svg');
 }
 .chevron-double-up {
-  --icon: url('/_static/icon/outline/chevron-double-up.svg');
+  --icon: url('/_public/icon/outline/chevron-double-up.svg');
 }
 .chevron-down {
-  --icon: url('/_static/icon/outline/chevron-down.svg');
+  --icon: url('/_public/icon/outline/chevron-down.svg');
 }
 .chevron-left {
-  --icon: url('/_static/icon/outline/chevron-left.svg');
+  --icon: url('/_public/icon/outline/chevron-left.svg');
 }
 .chevron-right {
-  --icon: url('/_static/icon/outline/chevron-right.svg');
+  --icon: url('/_public/icon/outline/chevron-right.svg');
 }
 .chevron-up {
-  --icon: url('/_static/icon/outline/chevron-up.svg');
+  --icon: url('/_public/icon/outline/chevron-up.svg');
 }
 .chevron-up-down {
-  --icon: url('/_static/icon/outline/chevron-up-down.svg');
+  --icon: url('/_public/icon/outline/chevron-up-down.svg');
 }
 .circle-stack {
-  --icon: url('/_static/icon/outline/circle-stack.svg');
+  --icon: url('/_public/icon/outline/circle-stack.svg');
 }
 .clipboard {
-  --icon: url('/_static/icon/outline/clipboard.svg');
+  --icon: url('/_public/icon/outline/clipboard.svg');
 }
 .clipboard-document {
-  --icon: url('/_static/icon/outline/clipboard-document.svg');
+  --icon: url('/_public/icon/outline/clipboard-document.svg');
 }
 .clipboard-document-check {
-  --icon: url('/_static/icon/outline/clipboard-document-check.svg');
+  --icon: url('/_public/icon/outline/clipboard-document-check.svg');
 }
 .clipboard-document-list {
-  --icon: url('/_static/icon/outline/clipboard-document-list.svg');
+  --icon: url('/_public/icon/outline/clipboard-document-list.svg');
 }
 .clock {
-  --icon: url('/_static/icon/outline/clock.svg');
+  --icon: url('/_public/icon/outline/clock.svg');
 }
 .cloud {
-  --icon: url('/_static/icon/outline/cloud.svg');
+  --icon: url('/_public/icon/outline/cloud.svg');
 }
 .cloud-arrow-down {
-  --icon: url('/_static/icon/outline/cloud-arrow-down.svg');
+  --icon: url('/_public/icon/outline/cloud-arrow-down.svg');
 }
 .cloud-arrow-up {
-  --icon: url('/_static/icon/outline/cloud-arrow-up.svg');
+  --icon: url('/_public/icon/outline/cloud-arrow-up.svg');
 }
 .code-bracket {
-  --icon: url('/_static/icon/outline/code-bracket.svg');
+  --icon: url('/_public/icon/outline/code-bracket.svg');
 }
 .code-bracket-square {
-  --icon: url('/_static/icon/outline/code-bracket-square.svg');
+  --icon: url('/_public/icon/outline/code-bracket-square.svg');
 }
 .cog {
-  --icon: url('/_static/icon/outline/cog.svg');
+  --icon: url('/_public/icon/outline/cog.svg');
 }
 .cog-6-tooth {
-  --icon: url('/_static/icon/outline/cog-6-tooth.svg');
+  --icon: url('/_public/icon/outline/cog-6-tooth.svg');
 }
 .cog-8-tooth {
-  --icon: url('/_static/icon/outline/cog-8-tooth.svg');
+  --icon: url('/_public/icon/outline/cog-8-tooth.svg');
 }
 .command-line {
-  --icon: url('/_static/icon/outline/command-line.svg');
+  --icon: url('/_public/icon/outline/command-line.svg');
 }
 .computer-desktop {
-  --icon: url('/_static/icon/outline/computer-desktop.svg');
+  --icon: url('/_public/icon/outline/computer-desktop.svg');
 }
 .cpu-chip {
-  --icon: url('/_static/icon/outline/cpu-chip.svg');
+  --icon: url('/_public/icon/outline/cpu-chip.svg');
 }
 .credit-card {
-  --icon: url('/_static/icon/outline/credit-card.svg');
+  --icon: url('/_public/icon/outline/credit-card.svg');
 }
 .cube {
-  --icon: url('/_static/icon/outline/cube.svg');
+  --icon: url('/_public/icon/outline/cube.svg');
 }
 .cube-transparent {
-  --icon: url('/_static/icon/outline/cube-transparent.svg');
+  --icon: url('/_public/icon/outline/cube-transparent.svg');
 }
 .currency-bangladeshi {
-  --icon: url('/_static/icon/outline/currency-bangladeshi.svg');
+  --icon: url('/_public/icon/outline/currency-bangladeshi.svg');
 }
 .currency-dollar {
-  --icon: url('/_static/icon/outline/currency-dollar.svg');
+  --icon: url('/_public/icon/outline/currency-dollar.svg');
 }
 .currency-euro {
-  --icon: url('/_static/icon/outline/currency-euro.svg');
+  --icon: url('/_public/icon/outline/currency-euro.svg');
 }
 .currency-pound {
-  --icon: url('/_static/icon/outline/currency-pound.svg');
+  --icon: url('/_public/icon/outline/currency-pound.svg');
 }
 .currency-rupee {
-  --icon: url('/_static/icon/outline/currency-rupee.svg');
+  --icon: url('/_public/icon/outline/currency-rupee.svg');
 }
 .currency-yen {
-  --icon: url('/_static/icon/outline/currency-yen.svg');
+  --icon: url('/_public/icon/outline/currency-yen.svg');
 }
 .cursor-arrow-rays {
-  --icon: url('/_static/icon/outline/cursor-arrow-rays.svg');
+  --icon: url('/_public/icon/outline/cursor-arrow-rays.svg');
 }
 .cursor-arrow-ripple {
-  --icon: url('/_static/icon/outline/cursor-arrow-ripple.svg');
+  --icon: url('/_public/icon/outline/cursor-arrow-ripple.svg');
 }
 .device-phone-mobile {
-  --icon: url('/_static/icon/outline/device-phone-mobile.svg');
+  --icon: url('/_public/icon/outline/device-phone-mobile.svg');
 }
 .device-tablet {
-  --icon: url('/_static/icon/outline/device-tablet.svg');
+  --icon: url('/_public/icon/outline/device-tablet.svg');
 }
 .document {
-  --icon: url('/_static/icon/outline/document.svg');
+  --icon: url('/_public/icon/outline/document.svg');
 }
 .document-arrow-down {
-  --icon: url('/_static/icon/outline/document-arrow-down.svg');
+  --icon: url('/_public/icon/outline/document-arrow-down.svg');
 }
 .document-arrow-up {
-  --icon: url('/_static/icon/outline/document-arrow-up.svg');
+  --icon: url('/_public/icon/outline/document-arrow-up.svg');
 }
 .document-chart-bar {
-  --icon: url('/_static/icon/outline/document-chart-bar.svg');
+  --icon: url('/_public/icon/outline/document-chart-bar.svg');
 }
 .document-check {
-  --icon: url('/_static/icon/outline/document-check.svg');
+  --icon: url('/_public/icon/outline/document-check.svg');
 }
 .document-duplicate {
-  --icon: url('/_static/icon/outline/document-duplicate.svg');
+  --icon: url('/_public/icon/outline/document-duplicate.svg');
 }
 .document-magnifying-glass {
-  --icon: url('/_static/icon/outline/document-magnifying-glass.svg');
+  --icon: url('/_public/icon/outline/document-magnifying-glass.svg');
 }
 .document-minus {
-  --icon: url('/_static/icon/outline/document-minus.svg');
+  --icon: url('/_public/icon/outline/document-minus.svg');
 }
 .document-plus {
-  --icon: url('/_static/icon/outline/document-plus.svg');
+  --icon: url('/_public/icon/outline/document-plus.svg');
 }
 .document-text {
-  --icon: url('/_static/icon/outline/document-text.svg');
+  --icon: url('/_public/icon/outline/document-text.svg');
 }
 .ellipsis-horizontal {
-  --icon: url('/_static/icon/outline/ellipsis-horizontal.svg');
+  --icon: url('/_public/icon/outline/ellipsis-horizontal.svg');
 }
 .ellipsis-horizontal-circle {
-  --icon: url('/_static/icon/outline/ellipsis-horizontal-circle.svg');
+  --icon: url('/_public/icon/outline/ellipsis-horizontal-circle.svg');
 }
 .ellipsis-vertical {
-  --icon: url('/_static/icon/outline/ellipsis-vertical.svg');
+  --icon: url('/_public/icon/outline/ellipsis-vertical.svg');
 }
 .envelope {
-  --icon: url('/_static/icon/outline/envelope.svg');
+  --icon: url('/_public/icon/outline/envelope.svg');
 }
 .envelope-open {
-  --icon: url('/_static/icon/outline/envelope-open.svg');
+  --icon: url('/_public/icon/outline/envelope-open.svg');
 }
 .exclamation-circle {
-  --icon: url('/_static/icon/outline/exclamation-circle.svg');
+  --icon: url('/_public/icon/outline/exclamation-circle.svg');
 }
 .exclamation-triangle {
-  --icon: url('/_static/icon/outline/exclamation-triangle.svg');
+  --icon: url('/_public/icon/outline/exclamation-triangle.svg');
 }
 .eye {
-  --icon: url('/_static/icon/outline/eye.svg');
+  --icon: url('/_public/icon/outline/eye.svg');
 }
 .eye-dropper {
-  --icon: url('/_static/icon/outline/eye-dropper.svg');
+  --icon: url('/_public/icon/outline/eye-dropper.svg');
 }
 .eye-slash {
-  --icon: url('/_static/icon/outline/eye-slash.svg');
+  --icon: url('/_public/icon/outline/eye-slash.svg');
 }
 .face-frown {
-  --icon: url('/_static/icon/outline/face-frown.svg');
+  --icon: url('/_public/icon/outline/face-frown.svg');
 }
 .face-smile {
-  --icon: url('/_static/icon/outline/face-smile.svg');
+  --icon: url('/_public/icon/outline/face-smile.svg');
 }
 .film {
-  --icon: url('/_static/icon/outline/film.svg');
+  --icon: url('/_public/icon/outline/film.svg');
 }
 .finger-print {
-  --icon: url('/_static/icon/outline/finger-print.svg');
+  --icon: url('/_public/icon/outline/finger-print.svg');
 }
 .fire {
-  --icon: url('/_static/icon/outline/fire.svg');
+  --icon: url('/_public/icon/outline/fire.svg');
 }
 .flag {
-  --icon: url('/_static/icon/outline/flag.svg');
+  --icon: url('/_public/icon/outline/flag.svg');
 }
 .folder {
-  --icon: url('/_static/icon/outline/folder.svg');
+  --icon: url('/_public/icon/outline/folder.svg');
 }
 .folder-arrow-down {
-  --icon: url('/_static/icon/outline/folder-arrow-down.svg');
+  --icon: url('/_public/icon/outline/folder-arrow-down.svg');
 }
 .folder-minus {
-  --icon: url('/_static/icon/outline/folder-minus.svg');
+  --icon: url('/_public/icon/outline/folder-minus.svg');
 }
 .folder-open {
-  --icon: url('/_static/icon/outline/folder-open.svg');
+  --icon: url('/_public/icon/outline/folder-open.svg');
 }
 .folder-plus {
-  --icon: url('/_static/icon/outline/folder-plus.svg');
+  --icon: url('/_public/icon/outline/folder-plus.svg');
 }
 .forward {
-  --icon: url('/_static/icon/outline/forward.svg');
+  --icon: url('/_public/icon/outline/forward.svg');
 }
 .funnel {
-  --icon: url('/_static/icon/outline/funnel.svg');
+  --icon: url('/_public/icon/outline/funnel.svg');
 }
 .gif {
-  --icon: url('/_static/icon/outline/gif.svg');
+  --icon: url('/_public/icon/outline/gif.svg');
 }
 .gift {
-  --icon: url('/_static/icon/outline/gift.svg');
+  --icon: url('/_public/icon/outline/gift.svg');
 }
 .gift-top {
-  --icon: url('/_static/icon/outline/gift-top.svg');
+  --icon: url('/_public/icon/outline/gift-top.svg');
 }
 .globe-alt {
-  --icon: url('/_static/icon/outline/globe-alt.svg');
+  --icon: url('/_public/icon/outline/globe-alt.svg');
 }
 .globe-americas {
-  --icon: url('/_static/icon/outline/globe-americas.svg');
+  --icon: url('/_public/icon/outline/globe-americas.svg');
 }
 .globe-asia-australia {
-  --icon: url('/_static/icon/outline/globe-asia-australia.svg');
+  --icon: url('/_public/icon/outline/globe-asia-australia.svg');
 }
 .globe-europe-africa {
-  --icon: url('/_static/icon/outline/globe-europe-africa.svg');
+  --icon: url('/_public/icon/outline/globe-europe-africa.svg');
 }
 .hand-raised {
-  --icon: url('/_static/icon/outline/hand-raised.svg');
+  --icon: url('/_public/icon/outline/hand-raised.svg');
 }
 .hand-thumb-down {
-  --icon: url('/_static/icon/outline/hand-thumb-down.svg');
+  --icon: url('/_public/icon/outline/hand-thumb-down.svg');
 }
 .hand-thumb-up {
-  --icon: url('/_static/icon/outline/hand-thumb-up.svg');
+  --icon: url('/_public/icon/outline/hand-thumb-up.svg');
 }
 .hashtag {
-  --icon: url('/_static/icon/outline/hashtag.svg');
+  --icon: url('/_public/icon/outline/hashtag.svg');
 }
 .heart {
-  --icon: url('/_static/icon/outline/heart.svg');
+  --icon: url('/_public/icon/outline/heart.svg');
 }
 .home {
-  --icon: url('/_static/icon/outline/home.svg');
+  --icon: url('/_public/icon/outline/home.svg');
 }
 .home-modern {
-  --icon: url('/_static/icon/outline/home-modern.svg');
+  --icon: url('/_public/icon/outline/home-modern.svg');
 }
 .identification {
-  --icon: url('/_static/icon/outline/identification.svg');
+  --icon: url('/_public/icon/outline/identification.svg');
 }
 .inbox {
-  --icon: url('/_static/icon/outline/inbox.svg');
+  --icon: url('/_public/icon/outline/inbox.svg');
 }
 .inbox-arrow-down {
-  --icon: url('/_static/icon/outline/inbox-arrow-down.svg');
+  --icon: url('/_public/icon/outline/inbox-arrow-down.svg');
 }
 .inbox-stack {
-  --icon: url('/_static/icon/outline/inbox-stack.svg');
+  --icon: url('/_public/icon/outline/inbox-stack.svg');
 }
 .information-circle {
-  --icon: url('/_static/icon/outline/information-circle.svg');
+  --icon: url('/_public/icon/outline/information-circle.svg');
 }
 .key {
-  --icon: url('/_static/icon/outline/key.svg');
+  --icon: url('/_public/icon/outline/key.svg');
 }
 .language {
-  --icon: url('/_static/icon/outline/language.svg');
+  --icon: url('/_public/icon/outline/language.svg');
 }
 .lifebuoy {
-  --icon: url('/_static/icon/outline/lifebuoy.svg');
+  --icon: url('/_public/icon/outline/lifebuoy.svg');
 }
 .light-bulb {
-  --icon: url('/_static/icon/outline/light-bulb.svg');
+  --icon: url('/_public/icon/outline/light-bulb.svg');
 }
 .link {
-  --icon: url('/_static/icon/outline/link.svg');
+  --icon: url('/_public/icon/outline/link.svg');
 }
 .list-bullet {
-  --icon: url('/_static/icon/outline/list-bullet.svg');
+  --icon: url('/_public/icon/outline/list-bullet.svg');
 }
 .lock-closed {
-  --icon: url('/_static/icon/outline/lock-closed.svg');
+  --icon: url('/_public/icon/outline/lock-closed.svg');
 }
 .lock-open {
-  --icon: url('/_static/icon/outline/lock-open.svg');
+  --icon: url('/_public/icon/outline/lock-open.svg');
 }
 .magnifying-glass {
-  --icon: url('/_static/icon/outline/magnifying-glass.svg');
+  --icon: url('/_public/icon/outline/magnifying-glass.svg');
 }
 .magnifying-glass-circle {
-  --icon: url('/_static/icon/outline/magnifying-glass-circle.svg');
+  --icon: url('/_public/icon/outline/magnifying-glass-circle.svg');
 }
 .magnifying-glass-minus {
-  --icon: url('/_static/icon/outline/magnifying-glass-minus.svg');
+  --icon: url('/_public/icon/outline/magnifying-glass-minus.svg');
 }
 .magnifying-glass-plus {
-  --icon: url('/_static/icon/outline/magnifying-glass-plus.svg');
+  --icon: url('/_public/icon/outline/magnifying-glass-plus.svg');
 }
 .map {
-  --icon: url('/_static/icon/outline/map.svg');
+  --icon: url('/_public/icon/outline/map.svg');
 }
 .map-pin {
-  --icon: url('/_static/icon/outline/map-pin.svg');
+  --icon: url('/_public/icon/outline/map-pin.svg');
 }
 .megaphone {
-  --icon: url('/_static/icon/outline/megaphone.svg');
+  --icon: url('/_public/icon/outline/megaphone.svg');
 }
 .microphone {
-  --icon: url('/_static/icon/outline/microphone.svg');
+  --icon: url('/_public/icon/outline/microphone.svg');
 }
 .minus {
-  --icon: url('/_static/icon/outline/minus.svg');
+  --icon: url('/_public/icon/outline/minus.svg');
 }
 .minus-circle {
-  --icon: url('/_static/icon/outline/minus-circle.svg');
+  --icon: url('/_public/icon/outline/minus-circle.svg');
 }
 .minus-small {
-  --icon: url('/_static/icon/outline/minus-small.svg');
+  --icon: url('/_public/icon/outline/minus-small.svg');
 }
 .moon {
-  --icon: url('/_static/icon/outline/moon.svg');
+  --icon: url('/_public/icon/outline/moon.svg');
 }
 .musical-note {
-  --icon: url('/_static/icon/outline/musical-note.svg');
+  --icon: url('/_public/icon/outline/musical-note.svg');
 }
 .newspaper {
-  --icon: url('/_static/icon/outline/newspaper.svg');
+  --icon: url('/_public/icon/outline/newspaper.svg');
 }
 .no-symbol {
-  --icon: url('/_static/icon/outline/no-symbol.svg');
+  --icon: url('/_public/icon/outline/no-symbol.svg');
 }
 .paint-brush {
-  --icon: url('/_static/icon/outline/paint-brush.svg');
+  --icon: url('/_public/icon/outline/paint-brush.svg');
 }
 .paper-airplane {
-  --icon: url('/_static/icon/outline/paper-airplane.svg');
+  --icon: url('/_public/icon/outline/paper-airplane.svg');
 }
 .paper-clip {
-  --icon: url('/_static/icon/outline/paper-clip.svg');
+  --icon: url('/_public/icon/outline/paper-clip.svg');
 }
 .pause {
-  --icon: url('/_static/icon/outline/pause.svg');
+  --icon: url('/_public/icon/outline/pause.svg');
 }
 .pause-circle {
-  --icon: url('/_static/icon/outline/pause-circle.svg');
+  --icon: url('/_public/icon/outline/pause-circle.svg');
 }
 .pencil {
-  --icon: url('/_static/icon/outline/pencil.svg');
+  --icon: url('/_public/icon/outline/pencil.svg');
 }
 .pencil-square {
-  --icon: url('/_static/icon/outline/pencil-square.svg');
+  --icon: url('/_public/icon/outline/pencil-square.svg');
 }
 .phone {
-  --icon: url('/_static/icon/outline/phone.svg');
+  --icon: url('/_public/icon/outline/phone.svg');
 }
 .phone-arrow-down-left {
-  --icon: url('/_static/icon/outline/phone-arrow-down-left.svg');
+  --icon: url('/_public/icon/outline/phone-arrow-down-left.svg');
 }
 .phone-arrow-up-right {
-  --icon: url('/_static/icon/outline/phone-arrow-up-right.svg');
+  --icon: url('/_public/icon/outline/phone-arrow-up-right.svg');
 }
 .phone-x-mark {
-  --icon: url('/_static/icon/outline/phone-x-mark.svg');
+  --icon: url('/_public/icon/outline/phone-x-mark.svg');
 }
 .photo {
-  --icon: url('/_static/icon/outline/photo.svg');
+  --icon: url('/_public/icon/outline/photo.svg');
 }
 .play {
-  --icon: url('/_static/icon/outline/play.svg');
+  --icon: url('/_public/icon/outline/play.svg');
 }
 .play-circle {
-  --icon: url('/_static/icon/outline/play-circle.svg');
+  --icon: url('/_public/icon/outline/play-circle.svg');
 }
 .play-pause {
-  --icon: url('/_static/icon/outline/play-pause.svg');
+  --icon: url('/_public/icon/outline/play-pause.svg');
 }
 .plus {
-  --icon: url('/_static/icon/outline/plus.svg');
+  --icon: url('/_public/icon/outline/plus.svg');
 }
 .plus-circle {
-  --icon: url('/_static/icon/outline/plus-circle.svg');
+  --icon: url('/_public/icon/outline/plus-circle.svg');
 }
 .plus-small {
-  --icon: url('/_static/icon/outline/plus-small.svg');
+  --icon: url('/_public/icon/outline/plus-small.svg');
 }
 .power {
-  --icon: url('/_static/icon/outline/power.svg');
+  --icon: url('/_public/icon/outline/power.svg');
 }
 .presentation-chart-bar {
-  --icon: url('/_static/icon/outline/presentation-chart-bar.svg');
+  --icon: url('/_public/icon/outline/presentation-chart-bar.svg');
 }
 .presentation-chart-line {
-  --icon: url('/_static/icon/outline/presentation-chart-line.svg');
+  --icon: url('/_public/icon/outline/presentation-chart-line.svg');
 }
 .printer {
-  --icon: url('/_static/icon/outline/printer.svg');
+  --icon: url('/_public/icon/outline/printer.svg');
 }
 .puzzle-piece {
-  --icon: url('/_static/icon/outline/puzzle-piece.svg');
+  --icon: url('/_public/icon/outline/puzzle-piece.svg');
 }
 .qr-code {
-  --icon: url('/_static/icon/outline/qr-code.svg');
+  --icon: url('/_public/icon/outline/qr-code.svg');
 }
 .question-mark-circle {
-  --icon: url('/_static/icon/outline/question-mark-circle.svg');
+  --icon: url('/_public/icon/outline/question-mark-circle.svg');
 }
 .queue-list {
-  --icon: url('/_static/icon/outline/queue-list.svg');
+  --icon: url('/_public/icon/outline/queue-list.svg');
 }
 .radio {
-  --icon: url('/_static/icon/outline/radio.svg');
+  --icon: url('/_public/icon/outline/radio.svg');
 }
 .receipt-percent {
-  --icon: url('/_static/icon/outline/receipt-percent.svg');
+  --icon: url('/_public/icon/outline/receipt-percent.svg');
 }
 .receipt-refund {
-  --icon: url('/_static/icon/outline/receipt-refund.svg');
+  --icon: url('/_public/icon/outline/receipt-refund.svg');
 }
 .rectangle-group {
-  --icon: url('/_static/icon/outline/rectangle-group.svg');
+  --icon: url('/_public/icon/outline/rectangle-group.svg');
 }
 .rectangle-stack {
-  --icon: url('/_static/icon/outline/rectangle-stack.svg');
+  --icon: url('/_public/icon/outline/rectangle-stack.svg');
 }
 .rocket-launch {
-  --icon: url('/_static/icon/outline/rocket-launch.svg');
+  --icon: url('/_public/icon/outline/rocket-launch.svg');
 }
 .rss {
-  --icon: url('/_static/icon/outline/rss.svg');
+  --icon: url('/_public/icon/outline/rss.svg');
 }
 .scale {
-  --icon: url('/_static/icon/outline/scale.svg');
+  --icon: url('/_public/icon/outline/scale.svg');
 }
 .scissors {
-  --icon: url('/_static/icon/outline/scissors.svg');
+  --icon: url('/_public/icon/outline/scissors.svg');
 }
 .server {
-  --icon: url('/_static/icon/outline/server.svg');
+  --icon: url('/_public/icon/outline/server.svg');
 }
 .server-stack {
-  --icon: url('/_static/icon/outline/server-stack.svg');
+  --icon: url('/_public/icon/outline/server-stack.svg');
 }
 .share {
-  --icon: url('/_static/icon/outline/share.svg');
+  --icon: url('/_public/icon/outline/share.svg');
 }
 .shield-check {
-  --icon: url('/_static/icon/outline/shield-check.svg');
+  --icon: url('/_public/icon/outline/shield-check.svg');
 }
 .shield-exclamation {
-  --icon: url('/_static/icon/outline/shield-exclamation.svg');
+  --icon: url('/_public/icon/outline/shield-exclamation.svg');
 }
 .shopping-bag {
-  --icon: url('/_static/icon/outline/shopping-bag.svg');
+  --icon: url('/_public/icon/outline/shopping-bag.svg');
 }
 .shopping-cart {
-  --icon: url('/_static/icon/outline/shopping-cart.svg');
+  --icon: url('/_public/icon/outline/shopping-cart.svg');
 }
 .signal {
-  --icon: url('/_static/icon/outline/signal.svg');
+  --icon: url('/_public/icon/outline/signal.svg');
 }
 .signal-slash {
-  --icon: url('/_static/icon/outline/signal-slash.svg');
+  --icon: url('/_public/icon/outline/signal-slash.svg');
 }
 .sparkles {
-  --icon: url('/_static/icon/outline/sparkles.svg');
+  --icon: url('/_public/icon/outline/sparkles.svg');
 }
 .speaker-wave {
-  --icon: url('/_static/icon/outline/speaker-wave.svg');
+  --icon: url('/_public/icon/outline/speaker-wave.svg');
 }
 .speaker-x-mark {
-  --icon: url('/_static/icon/outline/speaker-x-mark.svg');
+  --icon: url('/_public/icon/outline/speaker-x-mark.svg');
 }
 .square-2-stack {
-  --icon: url('/_static/icon/outline/square-2-stack.svg');
+  --icon: url('/_public/icon/outline/square-2-stack.svg');
 }
 .square-3-stack-3d {
-  --icon: url('/_static/icon/outline/square-3-stack-3d.svg');
+  --icon: url('/_public/icon/outline/square-3-stack-3d.svg');
 }
 .squares-2x2 {
-  --icon: url('/_static/icon/outline/squares-2x2.svg');
+  --icon: url('/_public/icon/outline/squares-2x2.svg');
 }
 .squares-plus {
-  --icon: url('/_static/icon/outline/squares-plus.svg');
+  --icon: url('/_public/icon/outline/squares-plus.svg');
 }
 .star {
-  --icon: url('/_static/icon/outline/star.svg');
+  --icon: url('/_public/icon/outline/star.svg');
 }
 .stop {
-  --icon: url('/_static/icon/outline/stop.svg');
+  --icon: url('/_public/icon/outline/stop.svg');
 }
 .stop-circle {
-  --icon: url('/_static/icon/outline/stop-circle.svg');
+  --icon: url('/_public/icon/outline/stop-circle.svg');
 }
 .sun {
-  --icon: url('/_static/icon/outline/sun.svg');
+  --icon: url('/_public/icon/outline/sun.svg');
 }
 .swatch {
-  --icon: url('/_static/icon/outline/swatch.svg');
+  --icon: url('/_public/icon/outline/swatch.svg');
 }
 .table-cells {
-  --icon: url('/_static/icon/outline/table-cells.svg');
+  --icon: url('/_public/icon/outline/table-cells.svg');
 }
 .tag {
-  --icon: url('/_static/icon/outline/tag.svg');
+  --icon: url('/_public/icon/outline/tag.svg');
 }
 .ticket {
-  --icon: url('/_static/icon/outline/ticket.svg');
+  --icon: url('/_public/icon/outline/ticket.svg');
 }
 .trash {
-  --icon: url('/_static/icon/outline/trash.svg');
+  --icon: url('/_public/icon/outline/trash.svg');
 }
 .trophy {
-  --icon: url('/_static/icon/outline/trophy.svg');
+  --icon: url('/_public/icon/outline/trophy.svg');
 }
 .truck {
-  --icon: url('/_static/icon/outline/truck.svg');
+  --icon: url('/_public/icon/outline/truck.svg');
 }
 .tv {
-  --icon: url('/_static/icon/outline/tv.svg');
+  --icon: url('/_public/icon/outline/tv.svg');
 }
 .user {
-  --icon: url('/_static/icon/outline/user.svg');
+  --icon: url('/_public/icon/outline/user.svg');
 }
 .user-circle {
-  --icon: url('/_static/icon/outline/user-circle.svg');
+  --icon: url('/_public/icon/outline/user-circle.svg');
 }
 .user-group {
-  --icon: url('/_static/icon/outline/user-group.svg');
+  --icon: url('/_public/icon/outline/user-group.svg');
 }
 .user-minus {
-  --icon: url('/_static/icon/outline/user-minus.svg');
+  --icon: url('/_public/icon/outline/user-minus.svg');
 }
 .user-plus {
-  --icon: url('/_static/icon/outline/user-plus.svg');
+  --icon: url('/_public/icon/outline/user-plus.svg');
 }
 .users {
-  --icon: url('/_static/icon/outline/users.svg');
+  --icon: url('/_public/icon/outline/users.svg');
 }
 .variable {
-  --icon: url('/_static/icon/outline/variable.svg');
+  --icon: url('/_public/icon/outline/variable.svg');
 }
 .video-camera {
-  --icon: url('/_static/icon/outline/video-camera.svg');
+  --icon: url('/_public/icon/outline/video-camera.svg');
 }
 .video-camera-slash {
-  --icon: url('/_static/icon/outline/video-camera-slash.svg');
+  --icon: url('/_public/icon/outline/video-camera-slash.svg');
 }
 .view-columns {
-  --icon: url('/_static/icon/outline/view-columns.svg');
+  --icon: url('/_public/icon/outline/view-columns.svg');
 }
 .viewfinder-circle {
-  --icon: url('/_static/icon/outline/viewfinder-circle.svg');
+  --icon: url('/_public/icon/outline/viewfinder-circle.svg');
 }
 .wallet {
-  --icon: url('/_static/icon/outline/wallet.svg');
+  --icon: url('/_public/icon/outline/wallet.svg');
 }
 .wifi {
-  --icon: url('/_static/icon/outline/wifi.svg');
+  --icon: url('/_public/icon/outline/wifi.svg');
 }
 .window {
-  --icon: url('/_static/icon/outline/window.svg');
+  --icon: url('/_public/icon/outline/window.svg');
 }
 .wrench {
-  --icon: url('/_static/icon/outline/wrench.svg');
+  --icon: url('/_public/icon/outline/wrench.svg');
 }
 .wrench-screwdriver {
-  --icon: url('/_static/icon/outline/wrench-screwdriver.svg');
+  --icon: url('/_public/icon/outline/wrench-screwdriver.svg');
 }
 .x-circle {
-  --icon: url('/_static/icon/outline/x-circle.svg');
+  --icon: url('/_public/icon/outline/x-circle.svg');
 }
 .x-mark {
-  --icon: url('/_static/icon/outline/x-mark.svg');
+  --icon: url('/_public/icon/outline/x-mark.svg');
 }
 /* Solid */
 .solid.academic-cap {
-  --icon: url('/_static/icon/solid/academic-cap.svg');
+  --icon: url('/_public/icon/solid/academic-cap.svg');
 }
 .solid.adjustments-horizontal {
-  --icon: url('/_static/icon/solid/adjustments-horizontal.svg');
+  --icon: url('/_public/icon/solid/adjustments-horizontal.svg');
 }
 .solid.adjustments-vertical {
-  --icon: url('/_static/icon/solid/adjustments-vertical.svg');
+  --icon: url('/_public/icon/solid/adjustments-vertical.svg');
 }
 .solid.archive-box {
-  --icon: url('/_static/icon/solid/archive-box.svg');
+  --icon: url('/_public/icon/solid/archive-box.svg');
 }
 .solid.archive-box-arrow-down {
-  --icon: url('/_static/icon/solid/archive-box-arrow-down.svg');
+  --icon: url('/_public/icon/solid/archive-box-arrow-down.svg');
 }
 .solid.archive-box-x-mark {
-  --icon: url('/_static/icon/solid/archive-box-x-mark.svg');
+  --icon: url('/_public/icon/solid/archive-box-x-mark.svg');
 }
 .solid.arrow-down {
-  --icon: url('/_static/icon/solid/arrow-down.svg');
+  --icon: url('/_public/icon/solid/arrow-down.svg');
 }
 .solid.arrow-down-circle {
-  --icon: url('/_static/icon/solid/arrow-down-circle.svg');
+  --icon: url('/_public/icon/solid/arrow-down-circle.svg');
 }
 .solid.arrow-down-left {
-  --icon: url('/_static/icon/solid/arrow-down-left.svg');
+  --icon: url('/_public/icon/solid/arrow-down-left.svg');
 }
 .solid.arrow-down-on-square {
-  --icon: url('/_static/icon/solid/arrow-down-on-square.svg');
+  --icon: url('/_public/icon/solid/arrow-down-on-square.svg');
 }
 .solid.arrow-down-on-square-stack {
-  --icon: url('/_static/icon/solid/arrow-down-on-square-stack.svg');
+  --icon: url('/_public/icon/solid/arrow-down-on-square-stack.svg');
 }
 .solid.arrow-down-right {
-  --icon: url('/_static/icon/solid/arrow-down-right.svg');
+  --icon: url('/_public/icon/solid/arrow-down-right.svg');
 }
 .solid.arrow-down-tray {
-  --icon: url('/_static/icon/solid/arrow-down-tray.svg');
+  --icon: url('/_public/icon/solid/arrow-down-tray.svg');
 }
 .solid.arrow-left {
-  --icon: url('/_static/icon/solid/arrow-left.svg');
+  --icon: url('/_public/icon/solid/arrow-left.svg');
 }
 .solid.arrow-left-circle {
-  --icon: url('/_static/icon/solid/arrow-left-circle.svg');
+  --icon: url('/_public/icon/solid/arrow-left-circle.svg');
 }
 .solid.arrow-left-on-rectangle {
-  --icon: url('/_static/icon/solid/arrow-left-on-rectangle.svg');
+  --icon: url('/_public/icon/solid/arrow-left-on-rectangle.svg');
 }
 .solid.arrow-long-down {
-  --icon: url('/_static/icon/solid/arrow-long-down.svg');
+  --icon: url('/_public/icon/solid/arrow-long-down.svg');
 }
 .solid.arrow-long-left {
-  --icon: url('/_static/icon/solid/arrow-long-left.svg');
+  --icon: url('/_public/icon/solid/arrow-long-left.svg');
 }
 .solid.arrow-long-right {
-  --icon: url('/_static/icon/solid/arrow-long-right.svg');
+  --icon: url('/_public/icon/solid/arrow-long-right.svg');
 }
 .solid.arrow-long-up {
-  --icon: url('/_static/icon/solid/arrow-long-up.svg');
+  --icon: url('/_public/icon/solid/arrow-long-up.svg');
 }
 .solid.arrow-path {
-  --icon: url('/_static/icon/solid/arrow-path.svg');
+  --icon: url('/_public/icon/solid/arrow-path.svg');
 }
 .solid.arrow-path-rounded-square {
-  --icon: url('/_static/icon/solid/arrow-path-rounded-square.svg');
+  --icon: url('/_public/icon/solid/arrow-path-rounded-square.svg');
 }
 .solid.arrow-right {
-  --icon: url('/_static/icon/solid/arrow-right.svg');
+  --icon: url('/_public/icon/solid/arrow-right.svg');
 }
 .solid.arrow-right-circle {
-  --icon: url('/_static/icon/solid/arrow-right-circle.svg');
+  --icon: url('/_public/icon/solid/arrow-right-circle.svg');
 }
 .solid.arrow-right-on-rectangle {
-  --icon: url('/_static/icon/solid/arrow-right-on-rectangle.svg');
+  --icon: url('/_public/icon/solid/arrow-right-on-rectangle.svg');
 }
 .solid.arrow-small-down {
-  --icon: url('/_static/icon/solid/arrow-small-down.svg');
+  --icon: url('/_public/icon/solid/arrow-small-down.svg');
 }
 .solid.arrow-small-left {
-  --icon: url('/_static/icon/solid/arrow-small-left.svg');
+  --icon: url('/_public/icon/solid/arrow-small-left.svg');
 }
 .solid.arrow-small-right {
-  --icon: url('/_static/icon/solid/arrow-small-right.svg');
+  --icon: url('/_public/icon/solid/arrow-small-right.svg');
 }
 .solid.arrow-small-up {
-  --icon: url('/_static/icon/solid/arrow-small-up.svg');
+  --icon: url('/_public/icon/solid/arrow-small-up.svg');
 }
 .solid.arrow-top-right-on-square {
-  --icon: url('/_static/icon/solid/arrow-top-right-on-square.svg');
+  --icon: url('/_public/icon/solid/arrow-top-right-on-square.svg');
 }
 .solid.arrow-trending-down {
-  --icon: url('/_static/icon/solid/arrow-trending-down.svg');
+  --icon: url('/_public/icon/solid/arrow-trending-down.svg');
 }
 .solid.arrow-trending-up {
-  --icon: url('/_static/icon/solid/arrow-trending-up.svg');
+  --icon: url('/_public/icon/solid/arrow-trending-up.svg');
 }
 .solid.arrow-up {
-  --icon: url('/_static/icon/solid/arrow-up.svg');
+  --icon: url('/_public/icon/solid/arrow-up.svg');
 }
 .solid.arrow-up-circle {
-  --icon: url('/_static/icon/solid/arrow-up-circle.svg');
+  --icon: url('/_public/icon/solid/arrow-up-circle.svg');
 }
 .solid.arrow-up-left {
-  --icon: url('/_static/icon/solid/arrow-up-left.svg');
+  --icon: url('/_public/icon/solid/arrow-up-left.svg');
 }
 .solid.arrow-up-on-square {
-  --icon: url('/_static/icon/solid/arrow-up-on-square.svg');
+  --icon: url('/_public/icon/solid/arrow-up-on-square.svg');
 }
 .solid.arrow-up-on-square-stack {
-  --icon: url('/_static/icon/solid/arrow-up-on-square-stack.svg');
+  --icon: url('/_public/icon/solid/arrow-up-on-square-stack.svg');
 }
 .solid.arrow-up-right {
-  --icon: url('/_static/icon/solid/arrow-up-right.svg');
+  --icon: url('/_public/icon/solid/arrow-up-right.svg');
 }
 .solid.arrow-up-tray {
-  --icon: url('/_static/icon/solid/arrow-up-tray.svg');
+  --icon: url('/_public/icon/solid/arrow-up-tray.svg');
 }
 .solid.arrow-uturn-down {
-  --icon: url('/_static/icon/solid/arrow-uturn-down.svg');
+  --icon: url('/_public/icon/solid/arrow-uturn-down.svg');
 }
 .solid.arrow-uturn-left {
-  --icon: url('/_static/icon/solid/arrow-uturn-left.svg');
+  --icon: url('/_public/icon/solid/arrow-uturn-left.svg');
 }
 .solid.arrow-uturn-right {
-  --icon: url('/_static/icon/solid/arrow-uturn-right.svg');
+  --icon: url('/_public/icon/solid/arrow-uturn-right.svg');
 }
 .solid.arrow-uturn-up {
-  --icon: url('/_static/icon/solid/arrow-uturn-up.svg');
+  --icon: url('/_public/icon/solid/arrow-uturn-up.svg');
 }
 .solid.arrows-pointing-in {
-  --icon: url('/_static/icon/solid/arrows-pointing-in.svg');
+  --icon: url('/_public/icon/solid/arrows-pointing-in.svg');
 }
 .solid.arrows-pointing-out {
-  --icon: url('/_static/icon/solid/arrows-pointing-out.svg');
+  --icon: url('/_public/icon/solid/arrows-pointing-out.svg');
 }
 .solid.arrows-right-left {
-  --icon: url('/_static/icon/solid/arrows-right-left.svg');
+  --icon: url('/_public/icon/solid/arrows-right-left.svg');
 }
 .solid.arrows-up-down {
-  --icon: url('/_static/icon/solid/arrows-up-down.svg');
+  --icon: url('/_public/icon/solid/arrows-up-down.svg');
 }
 .solid.at-symbol {
-  --icon: url('/_static/icon/solid/at-symbol.svg');
+  --icon: url('/_public/icon/solid/at-symbol.svg');
 }
 .solid.backspace {
-  --icon: url('/_static/icon/solid/backspace.svg');
+  --icon: url('/_public/icon/solid/backspace.svg');
 }
 .solid.backward {
-  --icon: url('/_static/icon/solid/backward.svg');
+  --icon: url('/_public/icon/solid/backward.svg');
 }
 .solid.banknotes {
-  --icon: url('/_static/icon/solid/banknotes.svg');
+  --icon: url('/_public/icon/solid/banknotes.svg');
 }
 .solid.bars-2 {
-  --icon: url('/_static/icon/solid/bars-2.svg');
+  --icon: url('/_public/icon/solid/bars-2.svg');
 }
 .solid.bars-3 {
-  --icon: url('/_static/icon/solid/bars-3.svg');
+  --icon: url('/_public/icon/solid/bars-3.svg');
 }
 .solid.bars-3-bottom-left {
-  --icon: url('/_static/icon/solid/bars-3-bottom-left.svg');
+  --icon: url('/_public/icon/solid/bars-3-bottom-left.svg');
 }
 .solid.bars-3-bottom-right {
-  --icon: url('/_static/icon/solid/bars-3-bottom-right.svg');
+  --icon: url('/_public/icon/solid/bars-3-bottom-right.svg');
 }
 .solid.bars-3-center-left {
-  --icon: url('/_static/icon/solid/bars-3-center-left.svg');
+  --icon: url('/_public/icon/solid/bars-3-center-left.svg');
 }
 .solid.bars-4 {
-  --icon: url('/_static/icon/solid/bars-4.svg');
+  --icon: url('/_public/icon/solid/bars-4.svg');
 }
 .solid.bars-arrow-down {
-  --icon: url('/_static/icon/solid/bars-arrow-down.svg');
+  --icon: url('/_public/icon/solid/bars-arrow-down.svg');
 }
 .solid.bars-arrow-up {
-  --icon: url('/_static/icon/solid/bars-arrow-up.svg');
+  --icon: url('/_public/icon/solid/bars-arrow-up.svg');
 }
 .solid.battery-0 {
-  --icon: url('/_static/icon/solid/battery-0.svg');
+  --icon: url('/_public/icon/solid/battery-0.svg');
 }
 .solid.battery-100 {
-  --icon: url('/_static/icon/solid/battery-100.svg');
+  --icon: url('/_public/icon/solid/battery-100.svg');
 }
 .solid.battery-50 {
-  --icon: url('/_static/icon/solid/battery-50.svg');
+  --icon: url('/_public/icon/solid/battery-50.svg');
 }
 .solid.beaker {
-  --icon: url('/_static/icon/solid/beaker.svg');
+  --icon: url('/_public/icon/solid/beaker.svg');
 }
 .solid.bell {
-  --icon: url('/_static/icon/solid/bell.svg');
+  --icon: url('/_public/icon/solid/bell.svg');
 }
 .solid.bell-alert {
-  --icon: url('/_static/icon/solid/bell-alert.svg');
+  --icon: url('/_public/icon/solid/bell-alert.svg');
 }
 .solid.bell-slash {
-  --icon: url('/_static/icon/solid/bell-slash.svg');
+  --icon: url('/_public/icon/solid/bell-slash.svg');
 }
 .solid.bell-snooze {
-  --icon: url('/_static/icon/solid/bell-snooze.svg');
+  --icon: url('/_public/icon/solid/bell-snooze.svg');
 }
 .solid.bolt {
-  --icon: url('/_static/icon/solid/bolt.svg');
+  --icon: url('/_public/icon/solid/bolt.svg');
 }
 .solid.bolt-slash {
-  --icon: url('/_static/icon/solid/bolt-slash.svg');
+  --icon: url('/_public/icon/solid/bolt-slash.svg');
 }
 .solid.book-open {
-  --icon: url('/_static/icon/solid/book-open.svg');
+  --icon: url('/_public/icon/solid/book-open.svg');
 }
 .solid.bookmark {
-  --icon: url('/_static/icon/solid/bookmark.svg');
+  --icon: url('/_public/icon/solid/bookmark.svg');
 }
 .solid.bookmark-slash {
-  --icon: url('/_static/icon/solid/bookmark-slash.svg');
+  --icon: url('/_public/icon/solid/bookmark-slash.svg');
 }
 .solid.bookmark-square {
-  --icon: url('/_static/icon/solid/bookmark-square.svg');
+  --icon: url('/_public/icon/solid/bookmark-square.svg');
 }
 .solid.briefcase {
-  --icon: url('/_static/icon/solid/briefcase.svg');
+  --icon: url('/_public/icon/solid/briefcase.svg');
 }
 .solid.bug-ant {
-  --icon: url('/_static/icon/solid/bug-ant.svg');
+  --icon: url('/_public/icon/solid/bug-ant.svg');
 }
 .solid.building-library {
-  --icon: url('/_static/icon/solid/building-library.svg');
+  --icon: url('/_public/icon/solid/building-library.svg');
 }
 .solid.building-office {
-  --icon: url('/_static/icon/solid/building-office.svg');
+  --icon: url('/_public/icon/solid/building-office.svg');
 }
 .solid.building-office-2 {
-  --icon: url('/_static/icon/solid/building-office-2.svg');
+  --icon: url('/_public/icon/solid/building-office-2.svg');
 }
 .solid.building-storefront {
-  --icon: url('/_static/icon/solid/building-storefront.svg');
+  --icon: url('/_public/icon/solid/building-storefront.svg');
 }
 .solid.cake {
-  --icon: url('/_static/icon/solid/cake.svg');
+  --icon: url('/_public/icon/solid/cake.svg');
 }
 .solid.calculator {
-  --icon: url('/_static/icon/solid/calculator.svg');
+  --icon: url('/_public/icon/solid/calculator.svg');
 }
 .solid.calendar {
-  --icon: url('/_static/icon/solid/calendar.svg');
+  --icon: url('/_public/icon/solid/calendar.svg');
 }
 .solid.calendar-days {
-  --icon: url('/_static/icon/solid/calendar-days.svg');
+  --icon: url('/_public/icon/solid/calendar-days.svg');
 }
 .solid.camera {
-  --icon: url('/_static/icon/solid/camera.svg');
+  --icon: url('/_public/icon/solid/camera.svg');
 }
 .solid.chart-bar {
-  --icon: url('/_static/icon/solid/chart-bar.svg');
+  --icon: url('/_public/icon/solid/chart-bar.svg');
 }
 .solid.chart-bar-square {
-  --icon: url('/_static/icon/solid/chart-bar-square.svg');
+  --icon: url('/_public/icon/solid/chart-bar-square.svg');
 }
 .solid.chart-pie {
-  --icon: url('/_static/icon/solid/chart-pie.svg');
+  --icon: url('/_public/icon/solid/chart-pie.svg');
 }
 .solid.chat-bubble-bottom-center {
-  --icon: url('/_static/icon/solid/chat-bubble-bottom-center.svg');
+  --icon: url('/_public/icon/solid/chat-bubble-bottom-center.svg');
 }
 .solid.chat-bubble-bottom-center-text {
-  --icon: url('/_static/icon/solid/chat-bubble-bottom-center-text.svg');
+  --icon: url('/_public/icon/solid/chat-bubble-bottom-center-text.svg');
 }
 .solid.chat-bubble-left {
-  --icon: url('/_static/icon/solid/chat-bubble-left.svg');
+  --icon: url('/_public/icon/solid/chat-bubble-left.svg');
 }
 .solid.chat-bubble-left-ellipsis {
-  --icon: url('/_static/icon/solid/chat-bubble-left-ellipsis.svg');
+  --icon: url('/_public/icon/solid/chat-bubble-left-ellipsis.svg');
 }
 .solid.chat-bubble-left-right {
-  --icon: url('/_static/icon/solid/chat-bubble-left-right.svg');
+  --icon: url('/_public/icon/solid/chat-bubble-left-right.svg');
 }
 .solid.chat-bubble-oval-left {
-  --icon: url('/_static/icon/solid/chat-bubble-oval-left.svg');
+  --icon: url('/_public/icon/solid/chat-bubble-oval-left.svg');
 }
 .solid.chat-bubble-oval-left-ellipsis {
-  --icon: url('/_static/icon/solid/chat-bubble-oval-left-ellipsis.svg');
+  --icon: url('/_public/icon/solid/chat-bubble-oval-left-ellipsis.svg');
 }
 .solid.check {
-  --icon: url('/_static/icon/solid/check.svg');
+  --icon: url('/_public/icon/solid/check.svg');
 }
 .solid.check-badge {
-  --icon: url('/_static/icon/solid/check-badge.svg');
+  --icon: url('/_public/icon/solid/check-badge.svg');
 }
 .solid.check-circle {
-  --icon: url('/_static/icon/solid/check-circle.svg');
+  --icon: url('/_public/icon/solid/check-circle.svg');
 }
 .solid.chevron-double-down {
-  --icon: url('/_static/icon/solid/chevron-double-down.svg');
+  --icon: url('/_public/icon/solid/chevron-double-down.svg');
 }
 .solid.chevron-double-left {
-  --icon: url('/_static/icon/solid/chevron-double-left.svg');
+  --icon: url('/_public/icon/solid/chevron-double-left.svg');
 }
 .solid.chevron-double-right {
-  --icon: url('/_static/icon/solid/chevron-double-right.svg');
+  --icon: url('/_public/icon/solid/chevron-double-right.svg');
 }
 .solid.chevron-double-up {
-  --icon: url('/_static/icon/solid/chevron-double-up.svg');
+  --icon: url('/_public/icon/solid/chevron-double-up.svg');
 }
 .solid.chevron-down {
-  --icon: url('/_static/icon/solid/chevron-down.svg');
+  --icon: url('/_public/icon/solid/chevron-down.svg');
 }
 .solid.chevron-left {
-  --icon: url('/_static/icon/solid/chevron-left.svg');
+  --icon: url('/_public/icon/solid/chevron-left.svg');
 }
 .solid.chevron-right {
-  --icon: url('/_static/icon/solid/chevron-right.svg');
+  --icon: url('/_public/icon/solid/chevron-right.svg');
 }
 .solid.chevron-up {
-  --icon: url('/_static/icon/solid/chevron-up.svg');
+  --icon: url('/_public/icon/solid/chevron-up.svg');
 }
 .solid.chevron-up-down {
-  --icon: url('/_static/icon/solid/chevron-up-down.svg');
+  --icon: url('/_public/icon/solid/chevron-up-down.svg');
 }
 .solid.circle-stack {
-  --icon: url('/_static/icon/solid/circle-stack.svg');
+  --icon: url('/_public/icon/solid/circle-stack.svg');
 }
 .solid.clipboard {
-  --icon: url('/_static/icon/solid/clipboard.svg');
+  --icon: url('/_public/icon/solid/clipboard.svg');
 }
 .solid.clipboard-document {
-  --icon: url('/_static/icon/solid/clipboard-document.svg');
+  --icon: url('/_public/icon/solid/clipboard-document.svg');
 }
 .solid.clipboard-document-check {
-  --icon: url('/_static/icon/solid/clipboard-document-check.svg');
+  --icon: url('/_public/icon/solid/clipboard-document-check.svg');
 }
 .solid.clipboard-document-list {
-  --icon: url('/_static/icon/solid/clipboard-document-list.svg');
+  --icon: url('/_public/icon/solid/clipboard-document-list.svg');
 }
 .solid.clock {
-  --icon: url('/_static/icon/solid/clock.svg');
+  --icon: url('/_public/icon/solid/clock.svg');
 }
 .solid.cloud {
-  --icon: url('/_static/icon/solid/cloud.svg');
+  --icon: url('/_public/icon/solid/cloud.svg');
 }
 .solid.cloud-arrow-down {
-  --icon: url('/_static/icon/solid/cloud-arrow-down.svg');
+  --icon: url('/_public/icon/solid/cloud-arrow-down.svg');
 }
 .solid.cloud-arrow-up {
-  --icon: url('/_static/icon/solid/cloud-arrow-up.svg');
+  --icon: url('/_public/icon/solid/cloud-arrow-up.svg');
 }
 .solid.code-bracket {
-  --icon: url('/_static/icon/solid/code-bracket.svg');
+  --icon: url('/_public/icon/solid/code-bracket.svg');
 }
 .solid.code-bracket-square {
-  --icon: url('/_static/icon/solid/code-bracket-square.svg');
+  --icon: url('/_public/icon/solid/code-bracket-square.svg');
 }
 .solid.cog {
-  --icon: url('/_static/icon/solid/cog.svg');
+  --icon: url('/_public/icon/solid/cog.svg');
 }
 .solid.cog-6-tooth {
-  --icon: url('/_static/icon/solid/cog-6-tooth.svg');
+  --icon: url('/_public/icon/solid/cog-6-tooth.svg');
 }
 .solid.cog-8-tooth {
-  --icon: url('/_static/icon/solid/cog-8-tooth.svg');
+  --icon: url('/_public/icon/solid/cog-8-tooth.svg');
 }
 .solid.command-line {
-  --icon: url('/_static/icon/solid/command-line.svg');
+  --icon: url('/_public/icon/solid/command-line.svg');
 }
 .solid.computer-desktop {
-  --icon: url('/_static/icon/solid/computer-desktop.svg');
+  --icon: url('/_public/icon/solid/computer-desktop.svg');
 }
 .solid.cpu-chip {
-  --icon: url('/_static/icon/solid/cpu-chip.svg');
+  --icon: url('/_public/icon/solid/cpu-chip.svg');
 }
 .solid.credit-card {
-  --icon: url('/_static/icon/solid/credit-card.svg');
+  --icon: url('/_public/icon/solid/credit-card.svg');
 }
 .solid.cube {
-  --icon: url('/_static/icon/solid/cube.svg');
+  --icon: url('/_public/icon/solid/cube.svg');
 }
 .solid.cube-transparent {
-  --icon: url('/_static/icon/solid/cube-transparent.svg');
+  --icon: url('/_public/icon/solid/cube-transparent.svg');
 }
 .solid.currency-bangladeshi {
-  --icon: url('/_static/icon/solid/currency-bangladeshi.svg');
+  --icon: url('/_public/icon/solid/currency-bangladeshi.svg');
 }
 .solid.currency-dollar {
-  --icon: url('/_static/icon/solid/currency-dollar.svg');
+  --icon: url('/_public/icon/solid/currency-dollar.svg');
 }
 .solid.currency-euro {
-  --icon: url('/_static/icon/solid/currency-euro.svg');
+  --icon: url('/_public/icon/solid/currency-euro.svg');
 }
 .solid.currency-pound {
-  --icon: url('/_static/icon/solid/currency-pound.svg');
+  --icon: url('/_public/icon/solid/currency-pound.svg');
 }
 .solid.currency-rupee {
-  --icon: url('/_static/icon/solid/currency-rupee.svg');
+  --icon: url('/_public/icon/solid/currency-rupee.svg');
 }
 .solid.currency-yen {
-  --icon: url('/_static/icon/solid/currency-yen.svg');
+  --icon: url('/_public/icon/solid/currency-yen.svg');
 }
 .solid.cursor-arrow-rays {
-  --icon: url('/_static/icon/solid/cursor-arrow-rays.svg');
+  --icon: url('/_public/icon/solid/cursor-arrow-rays.svg');
 }
 .solid.cursor-arrow-ripple {
-  --icon: url('/_static/icon/solid/cursor-arrow-ripple.svg');
+  --icon: url('/_public/icon/solid/cursor-arrow-ripple.svg');
 }
 .solid.device-phone-mobile {
-  --icon: url('/_static/icon/solid/device-phone-mobile.svg');
+  --icon: url('/_public/icon/solid/device-phone-mobile.svg');
 }
 .solid.device-tablet {
-  --icon: url('/_static/icon/solid/device-tablet.svg');
+  --icon: url('/_public/icon/solid/device-tablet.svg');
 }
 .solid.document {
-  --icon: url('/_static/icon/solid/document.svg');
+  --icon: url('/_public/icon/solid/document.svg');
 }
 .solid.document-arrow-down {
-  --icon: url('/_static/icon/solid/document-arrow-down.svg');
+  --icon: url('/_public/icon/solid/document-arrow-down.svg');
 }
 .solid.document-arrow-up {
-  --icon: url('/_static/icon/solid/document-arrow-up.svg');
+  --icon: url('/_public/icon/solid/document-arrow-up.svg');
 }
 .solid.document-chart-bar {
-  --icon: url('/_static/icon/solid/document-chart-bar.svg');
+  --icon: url('/_public/icon/solid/document-chart-bar.svg');
 }
 .solid.document-check {
-  --icon: url('/_static/icon/solid/document-check.svg');
+  --icon: url('/_public/icon/solid/document-check.svg');
 }
 .solid.document-duplicate {
-  --icon: url('/_static/icon/solid/document-duplicate.svg');
+  --icon: url('/_public/icon/solid/document-duplicate.svg');
 }
 .solid.document-magnifying-glass {
-  --icon: url('/_static/icon/solid/document-magnifying-glass.svg');
+  --icon: url('/_public/icon/solid/document-magnifying-glass.svg');
 }
 .solid.document-minus {
-  --icon: url('/_static/icon/solid/document-minus.svg');
+  --icon: url('/_public/icon/solid/document-minus.svg');
 }
 .solid.document-plus {
-  --icon: url('/_static/icon/solid/document-plus.svg');
+  --icon: url('/_public/icon/solid/document-plus.svg');
 }
 .solid.document-text {
-  --icon: url('/_static/icon/solid/document-text.svg');
+  --icon: url('/_public/icon/solid/document-text.svg');
 }
 .solid.ellipsis-horizontal {
-  --icon: url('/_static/icon/solid/ellipsis-horizontal.svg');
+  --icon: url('/_public/icon/solid/ellipsis-horizontal.svg');
 }
 .solid.ellipsis-horizontal-circle {
-  --icon: url('/_static/icon/solid/ellipsis-horizontal-circle.svg');
+  --icon: url('/_public/icon/solid/ellipsis-horizontal-circle.svg');
 }
 .solid.ellipsis-vertical {
-  --icon: url('/_static/icon/solid/ellipsis-vertical.svg');
+  --icon: url('/_public/icon/solid/ellipsis-vertical.svg');
 }
 .solid.envelope {
-  --icon: url('/_static/icon/solid/envelope.svg');
+  --icon: url('/_public/icon/solid/envelope.svg');
 }
 .solid.envelope-open {
-  --icon: url('/_static/icon/solid/envelope-open.svg');
+  --icon: url('/_public/icon/solid/envelope-open.svg');
 }
 .solid.exclamation-circle {
-  --icon: url('/_static/icon/solid/exclamation-circle.svg');
+  --icon: url('/_public/icon/solid/exclamation-circle.svg');
 }
 .solid.exclamation-triangle {
-  --icon: url('/_static/icon/solid/exclamation-triangle.svg');
+  --icon: url('/_public/icon/solid/exclamation-triangle.svg');
 }
 .solid.eye {
-  --icon: url('/_static/icon/solid/eye.svg');
+  --icon: url('/_public/icon/solid/eye.svg');
 }
 .solid.eye-dropper {
-  --icon: url('/_static/icon/solid/eye-dropper.svg');
+  --icon: url('/_public/icon/solid/eye-dropper.svg');
 }
 .solid.eye-slash {
-  --icon: url('/_static/icon/solid/eye-slash.svg');
+  --icon: url('/_public/icon/solid/eye-slash.svg');
 }
 .solid.face-frown {
-  --icon: url('/_static/icon/solid/face-frown.svg');
+  --icon: url('/_public/icon/solid/face-frown.svg');
 }
 .solid.face-smile {
-  --icon: url('/_static/icon/solid/face-smile.svg');
+  --icon: url('/_public/icon/solid/face-smile.svg');
 }
 .solid.film {
-  --icon: url('/_static/icon/solid/film.svg');
+  --icon: url('/_public/icon/solid/film.svg');
 }
 .solid.finger-print {
-  --icon: url('/_static/icon/solid/finger-print.svg');
+  --icon: url('/_public/icon/solid/finger-print.svg');
 }
 .solid.fire {
-  --icon: url('/_static/icon/solid/fire.svg');
+  --icon: url('/_public/icon/solid/fire.svg');
 }
 .solid.flag {
-  --icon: url('/_static/icon/solid/flag.svg');
+  --icon: url('/_public/icon/solid/flag.svg');
 }
 .solid.folder {
-  --icon: url('/_static/icon/solid/folder.svg');
+  --icon: url('/_public/icon/solid/folder.svg');
 }
 .solid.folder-arrow-down {
-  --icon: url('/_static/icon/solid/folder-arrow-down.svg');
+  --icon: url('/_public/icon/solid/folder-arrow-down.svg');
 }
 .solid.folder-minus {
-  --icon: url('/_static/icon/solid/folder-minus.svg');
+  --icon: url('/_public/icon/solid/folder-minus.svg');
 }
 .solid.folder-open {
-  --icon: url('/_static/icon/solid/folder-open.svg');
+  --icon: url('/_public/icon/solid/folder-open.svg');
 }
 .solid.folder-plus {
-  --icon: url('/_static/icon/solid/folder-plus.svg');
+  --icon: url('/_public/icon/solid/folder-plus.svg');
 }
 .solid.forward {
-  --icon: url('/_static/icon/solid/forward.svg');
+  --icon: url('/_public/icon/solid/forward.svg');
 }
 .solid.funnel {
-  --icon: url('/_static/icon/solid/funnel.svg');
+  --icon: url('/_public/icon/solid/funnel.svg');
 }
 .solid.gif {
-  --icon: url('/_static/icon/solid/gif.svg');
+  --icon: url('/_public/icon/solid/gif.svg');
 }
 .solid.gift {
-  --icon: url('/_static/icon/solid/gift.svg');
+  --icon: url('/_public/icon/solid/gift.svg');
 }
 .solid.gift-top {
-  --icon: url('/_static/icon/solid/gift-top.svg');
+  --icon: url('/_public/icon/solid/gift-top.svg');
 }
 .solid.globe-alt {
-  --icon: url('/_static/icon/solid/globe-alt.svg');
+  --icon: url('/_public/icon/solid/globe-alt.svg');
 }
 .solid.globe-americas {
-  --icon: url('/_static/icon/solid/globe-americas.svg');
+  --icon: url('/_public/icon/solid/globe-americas.svg');
 }
 .solid.globe-asia-australia {
-  --icon: url('/_static/icon/solid/globe-asia-australia.svg');
+  --icon: url('/_public/icon/solid/globe-asia-australia.svg');
 }
 .solid.globe-europe-africa {
-  --icon: url('/_static/icon/solid/globe-europe-africa.svg');
+  --icon: url('/_public/icon/solid/globe-europe-africa.svg');
 }
 .solid.hand-raised {
-  --icon: url('/_static/icon/solid/hand-raised.svg');
+  --icon: url('/_public/icon/solid/hand-raised.svg');
 }
 .solid.hand-thumb-down {
-  --icon: url('/_static/icon/solid/hand-thumb-down.svg');
+  --icon: url('/_public/icon/solid/hand-thumb-down.svg');
 }
 .solid.hand-thumb-up {
-  --icon: url('/_static/icon/solid/hand-thumb-up.svg');
+  --icon: url('/_public/icon/solid/hand-thumb-up.svg');
 }
 .solid.hashtag {
-  --icon: url('/_static/icon/solid/hashtag.svg');
+  --icon: url('/_public/icon/solid/hashtag.svg');
 }
 .solid.heart {
-  --icon: url('/_static/icon/solid/heart.svg');
+  --icon: url('/_public/icon/solid/heart.svg');
 }
 .solid.home {
-  --icon: url('/_static/icon/solid/home.svg');
+  --icon: url('/_public/icon/solid/home.svg');
 }
 .solid.home-modern {
-  --icon: url('/_static/icon/solid/home-modern.svg');
+  --icon: url('/_public/icon/solid/home-modern.svg');
 }
 .solid.identification {
-  --icon: url('/_static/icon/solid/identification.svg');
+  --icon: url('/_public/icon/solid/identification.svg');
 }
 .solid.inbox {
-  --icon: url('/_static/icon/solid/inbox.svg');
+  --icon: url('/_public/icon/solid/inbox.svg');
 }
 .solid.inbox-arrow-down {
-  --icon: url('/_static/icon/solid/inbox-arrow-down.svg');
+  --icon: url('/_public/icon/solid/inbox-arrow-down.svg');
 }
 .solid.inbox-stack {
-  --icon: url('/_static/icon/solid/inbox-stack.svg');
+  --icon: url('/_public/icon/solid/inbox-stack.svg');
 }
 .solid.information-circle {
-  --icon: url('/_static/icon/solid/information-circle.svg');
+  --icon: url('/_public/icon/solid/information-circle.svg');
 }
 .solid.key {
-  --icon: url('/_static/icon/solid/key.svg');
+  --icon: url('/_public/icon/solid/key.svg');
 }
 .solid.language {
-  --icon: url('/_static/icon/solid/language.svg');
+  --icon: url('/_public/icon/solid/language.svg');
 }
 .solid.lifebuoy {
-  --icon: url('/_static/icon/solid/lifebuoy.svg');
+  --icon: url('/_public/icon/solid/lifebuoy.svg');
 }
 .solid.light-bulb {
-  --icon: url('/_static/icon/solid/light-bulb.svg');
+  --icon: url('/_public/icon/solid/light-bulb.svg');
 }
 .solid.link {
-  --icon: url('/_static/icon/solid/link.svg');
+  --icon: url('/_public/icon/solid/link.svg');
 }
 .solid.list-bullet {
-  --icon: url('/_static/icon/solid/list-bullet.svg');
+  --icon: url('/_public/icon/solid/list-bullet.svg');
 }
 .solid.lock-closed {
-  --icon: url('/_static/icon/solid/lock-closed.svg');
+  --icon: url('/_public/icon/solid/lock-closed.svg');
 }
 .solid.lock-open {
-  --icon: url('/_static/icon/solid/lock-open.svg');
+  --icon: url('/_public/icon/solid/lock-open.svg');
 }
 .solid.magnifying-glass {
-  --icon: url('/_static/icon/solid/magnifying-glass.svg');
+  --icon: url('/_public/icon/solid/magnifying-glass.svg');
 }
 .solid.magnifying-glass-circle {
-  --icon: url('/_static/icon/solid/magnifying-glass-circle.svg');
+  --icon: url('/_public/icon/solid/magnifying-glass-circle.svg');
 }
 .solid.magnifying-glass-minus {
-  --icon: url('/_static/icon/solid/magnifying-glass-minus.svg');
+  --icon: url('/_public/icon/solid/magnifying-glass-minus.svg');
 }
 .solid.magnifying-glass-plus {
-  --icon: url('/_static/icon/solid/magnifying-glass-plus.svg');
+  --icon: url('/_public/icon/solid/magnifying-glass-plus.svg');
 }
 .solid.map {
-  --icon: url('/_static/icon/solid/map.svg');
+  --icon: url('/_public/icon/solid/map.svg');
 }
 .solid.map-pin {
-  --icon: url('/_static/icon/solid/map-pin.svg');
+  --icon: url('/_public/icon/solid/map-pin.svg');
 }
 .solid.megaphone {
-  --icon: url('/_static/icon/solid/megaphone.svg');
+  --icon: url('/_public/icon/solid/megaphone.svg');
 }
 .solid.microphone {
-  --icon: url('/_static/icon/solid/microphone.svg');
+  --icon: url('/_public/icon/solid/microphone.svg');
 }
 .solid.minus {
-  --icon: url('/_static/icon/solid/minus.svg');
+  --icon: url('/_public/icon/solid/minus.svg');
 }
 .solid.minus-circle {
-  --icon: url('/_static/icon/solid/minus-circle.svg');
+  --icon: url('/_public/icon/solid/minus-circle.svg');
 }
 .solid.minus-small {
-  --icon: url('/_static/icon/solid/minus-small.svg');
+  --icon: url('/_public/icon/solid/minus-small.svg');
 }
 .solid.moon {
-  --icon: url('/_static/icon/solid/moon.svg');
+  --icon: url('/_public/icon/solid/moon.svg');
 }
 .solid.musical-note {
-  --icon: url('/_static/icon/solid/musical-note.svg');
+  --icon: url('/_public/icon/solid/musical-note.svg');
 }
 .solid.newspaper {
-  --icon: url('/_static/icon/solid/newspaper.svg');
+  --icon: url('/_public/icon/solid/newspaper.svg');
 }
 .solid.no-symbol {
-  --icon: url('/_static/icon/solid/no-symbol.svg');
+  --icon: url('/_public/icon/solid/no-symbol.svg');
 }
 .solid.paint-brush {
-  --icon: url('/_static/icon/solid/paint-brush.svg');
+  --icon: url('/_public/icon/solid/paint-brush.svg');
 }
 .solid.paper-airplane {
-  --icon: url('/_static/icon/solid/paper-airplane.svg');
+  --icon: url('/_public/icon/solid/paper-airplane.svg');
 }
 .solid.paper-clip {
-  --icon: url('/_static/icon/solid/paper-clip.svg');
+  --icon: url('/_public/icon/solid/paper-clip.svg');
 }
 .solid.pause {
-  --icon: url('/_static/icon/solid/pause.svg');
+  --icon: url('/_public/icon/solid/pause.svg');
 }
 .solid.pause-circle {
-  --icon: url('/_static/icon/solid/pause-circle.svg');
+  --icon: url('/_public/icon/solid/pause-circle.svg');
 }
 .solid.pencil {
-  --icon: url('/_static/icon/solid/pencil.svg');
+  --icon: url('/_public/icon/solid/pencil.svg');
 }
 .solid.pencil-square {
-  --icon: url('/_static/icon/solid/pencil-square.svg');
+  --icon: url('/_public/icon/solid/pencil-square.svg');
 }
 .solid.phone {
-  --icon: url('/_static/icon/solid/phone.svg');
+  --icon: url('/_public/icon/solid/phone.svg');
 }
 .solid.phone-arrow-down-left {
-  --icon: url('/_static/icon/solid/phone-arrow-down-left.svg');
+  --icon: url('/_public/icon/solid/phone-arrow-down-left.svg');
 }
 .solid.phone-arrow-up-right {
-  --icon: url('/_static/icon/solid/phone-arrow-up-right.svg');
+  --icon: url('/_public/icon/solid/phone-arrow-up-right.svg');
 }
 .solid.phone-x-mark {
-  --icon: url('/_static/icon/solid/phone-x-mark.svg');
+  --icon: url('/_public/icon/solid/phone-x-mark.svg');
 }
 .solid.photo {
-  --icon: url('/_static/icon/solid/photo.svg');
+  --icon: url('/_public/icon/solid/photo.svg');
 }
 .solid.play {
-  --icon: url('/_static/icon/solid/play.svg');
+  --icon: url('/_public/icon/solid/play.svg');
 }
 .solid.play-circle {
-  --icon: url('/_static/icon/solid/play-circle.svg');
+  --icon: url('/_public/icon/solid/play-circle.svg');
 }
 .solid.play-pause {
-  --icon: url('/_static/icon/solid/play-pause.svg');
+  --icon: url('/_public/icon/solid/play-pause.svg');
 }
 .solid.plus {
-  --icon: url('/_static/icon/solid/plus.svg');
+  --icon: url('/_public/icon/solid/plus.svg');
 }
 .solid.plus-circle {
-  --icon: url('/_static/icon/solid/plus-circle.svg');
+  --icon: url('/_public/icon/solid/plus-circle.svg');
 }
 .solid.plus-small {
-  --icon: url('/_static/icon/solid/plus-small.svg');
+  --icon: url('/_public/icon/solid/plus-small.svg');
 }
 .solid.power {
-  --icon: url('/_static/icon/solid/power.svg');
+  --icon: url('/_public/icon/solid/power.svg');
 }
 .solid.presentation-chart-bar {
-  --icon: url('/_static/icon/solid/presentation-chart-bar.svg');
+  --icon: url('/_public/icon/solid/presentation-chart-bar.svg');
 }
 .solid.presentation-chart-line {
-  --icon: url('/_static/icon/solid/presentation-chart-line.svg');
+  --icon: url('/_public/icon/solid/presentation-chart-line.svg');
 }
 .solid.printer {
-  --icon: url('/_static/icon/solid/printer.svg');
+  --icon: url('/_public/icon/solid/printer.svg');
 }
 .solid.puzzle-piece {
-  --icon: url('/_static/icon/solid/puzzle-piece.svg');
+  --icon: url('/_public/icon/solid/puzzle-piece.svg');
 }
 .solid.qr-code {
-  --icon: url('/_static/icon/solid/qr-code.svg');
+  --icon: url('/_public/icon/solid/qr-code.svg');
 }
 .solid.question-mark-circle {
-  --icon: url('/_static/icon/solid/question-mark-circle.svg');
+  --icon: url('/_public/icon/solid/question-mark-circle.svg');
 }
 .solid.queue-list {
-  --icon: url('/_static/icon/solid/queue-list.svg');
+  --icon: url('/_public/icon/solid/queue-list.svg');
 }
 .solid.radio {
-  --icon: url('/_static/icon/solid/radio.svg');
+  --icon: url('/_public/icon/solid/radio.svg');
 }
 .solid.receipt-percent {
-  --icon: url('/_static/icon/solid/receipt-percent.svg');
+  --icon: url('/_public/icon/solid/receipt-percent.svg');
 }
 .solid.receipt-refund {
-  --icon: url('/_static/icon/solid/receipt-refund.svg');
+  --icon: url('/_public/icon/solid/receipt-refund.svg');
 }
 .solid.rectangle-group {
-  --icon: url('/_static/icon/solid/rectangle-group.svg');
+  --icon: url('/_public/icon/solid/rectangle-group.svg');
 }
 .solid.rectangle-stack {
-  --icon: url('/_static/icon/solid/rectangle-stack.svg');
+  --icon: url('/_public/icon/solid/rectangle-stack.svg');
 }
 .solid.rocket-launch {
-  --icon: url('/_static/icon/solid/rocket-launch.svg');
+  --icon: url('/_public/icon/solid/rocket-launch.svg');
 }
 .solid.rss {
-  --icon: url('/_static/icon/solid/rss.svg');
+  --icon: url('/_public/icon/solid/rss.svg');
 }
 .solid.scale {
-  --icon: url('/_static/icon/solid/scale.svg');
+  --icon: url('/_public/icon/solid/scale.svg');
 }
 .solid.scissors {
-  --icon: url('/_static/icon/solid/scissors.svg');
+  --icon: url('/_public/icon/solid/scissors.svg');
 }
 .solid.server {
-  --icon: url('/_static/icon/solid/server.svg');
+  --icon: url('/_public/icon/solid/server.svg');
 }
 .solid.server-stack {
-  --icon: url('/_static/icon/solid/server-stack.svg');
+  --icon: url('/_public/icon/solid/server-stack.svg');
 }
 .solid.share {
-  --icon: url('/_static/icon/solid/share.svg');
+  --icon: url('/_public/icon/solid/share.svg');
 }
 .solid.shield-check {
-  --icon: url('/_static/icon/solid/shield-check.svg');
+  --icon: url('/_public/icon/solid/shield-check.svg');
 }
 .solid.shield-exclamation {
-  --icon: url('/_static/icon/solid/shield-exclamation.svg');
+  --icon: url('/_public/icon/solid/shield-exclamation.svg');
 }
 .solid.shopping-bag {
-  --icon: url('/_static/icon/solid/shopping-bag.svg');
+  --icon: url('/_public/icon/solid/shopping-bag.svg');
 }
 .solid.shopping-cart {
-  --icon: url('/_static/icon/solid/shopping-cart.svg');
+  --icon: url('/_public/icon/solid/shopping-cart.svg');
 }
 .solid.signal {
-  --icon: url('/_static/icon/solid/signal.svg');
+  --icon: url('/_public/icon/solid/signal.svg');
 }
 .solid.signal-slash {
-  --icon: url('/_static/icon/solid/signal-slash.svg');
+  --icon: url('/_public/icon/solid/signal-slash.svg');
 }
 .solid.sparkles {
-  --icon: url('/_static/icon/solid/sparkles.svg');
+  --icon: url('/_public/icon/solid/sparkles.svg');
 }
 .solid.speaker-wave {
-  --icon: url('/_static/icon/solid/speaker-wave.svg');
+  --icon: url('/_public/icon/solid/speaker-wave.svg');
 }
 .solid.speaker-x-mark {
-  --icon: url('/_static/icon/solid/speaker-x-mark.svg');
+  --icon: url('/_public/icon/solid/speaker-x-mark.svg');
 }
 .solid.square-2-stack {
-  --icon: url('/_static/icon/solid/square-2-stack.svg');
+  --icon: url('/_public/icon/solid/square-2-stack.svg');
 }
 .solid.square-3-stack-3d {
-  --icon: url('/_static/icon/solid/square-3-stack-3d.svg');
+  --icon: url('/_public/icon/solid/square-3-stack-3d.svg');
 }
 .solid.squares-2x2 {
-  --icon: url('/_static/icon/solid/squares-2x2.svg');
+  --icon: url('/_public/icon/solid/squares-2x2.svg');
 }
 .solid.squares-plus {
-  --icon: url('/_static/icon/solid/squares-plus.svg');
+  --icon: url('/_public/icon/solid/squares-plus.svg');
 }
 .solid.star {
-  --icon: url('/_static/icon/solid/star.svg');
+  --icon: url('/_public/icon/solid/star.svg');
 }
 .solid.stop {
-  --icon: url('/_static/icon/solid/stop.svg');
+  --icon: url('/_public/icon/solid/stop.svg');
 }
 .solid.stop-circle {
-  --icon: url('/_static/icon/solid/stop-circle.svg');
+  --icon: url('/_public/icon/solid/stop-circle.svg');
 }
 .solid.sun {
-  --icon: url('/_static/icon/solid/sun.svg');
+  --icon: url('/_public/icon/solid/sun.svg');
 }
 .solid.swatch {
-  --icon: url('/_static/icon/solid/swatch.svg');
+  --icon: url('/_public/icon/solid/swatch.svg');
 }
 .solid.table-cells {
-  --icon: url('/_static/icon/solid/table-cells.svg');
+  --icon: url('/_public/icon/solid/table-cells.svg');
 }
 .solid.tag {
-  --icon: url('/_static/icon/solid/tag.svg');
+  --icon: url('/_public/icon/solid/tag.svg');
 }
 .solid.ticket {
-  --icon: url('/_static/icon/solid/ticket.svg');
+  --icon: url('/_public/icon/solid/ticket.svg');
 }
 .solid.trash {
-  --icon: url('/_static/icon/solid/trash.svg');
+  --icon: url('/_public/icon/solid/trash.svg');
 }
 .solid.trophy {
-  --icon: url('/_static/icon/solid/trophy.svg');
+  --icon: url('/_public/icon/solid/trophy.svg');
 }
 .solid.truck {
-  --icon: url('/_static/icon/solid/truck.svg');
+  --icon: url('/_public/icon/solid/truck.svg');
 }
 .solid.tv {
-  --icon: url('/_static/icon/solid/tv.svg');
+  --icon: url('/_public/icon/solid/tv.svg');
 }
 .solid.user {
-  --icon: url('/_static/icon/solid/user.svg');
+  --icon: url('/_public/icon/solid/user.svg');
 }
 .solid.user-circle {
-  --icon: url('/_static/icon/solid/user-circle.svg');
+  --icon: url('/_public/icon/solid/user-circle.svg');
 }
 .solid.user-group {
-  --icon: url('/_static/icon/solid/user-group.svg');
+  --icon: url('/_public/icon/solid/user-group.svg');
 }
 .solid.user-minus {
-  --icon: url('/_static/icon/solid/user-minus.svg');
+  --icon: url('/_public/icon/solid/user-minus.svg');
 }
 .solid.user-plus {
-  --icon: url('/_static/icon/solid/user-plus.svg');
+  --icon: url('/_public/icon/solid/user-plus.svg');
 }
 .solid.users {
-  --icon: url('/_static/icon/solid/users.svg');
+  --icon: url('/_public/icon/solid/users.svg');
 }
 .solid.variable {
-  --icon: url('/_static/icon/solid/variable.svg');
+  --icon: url('/_public/icon/solid/variable.svg');
 }
 .solid.video-camera {
-  --icon: url('/_static/icon/solid/video-camera.svg');
+  --icon: url('/_public/icon/solid/video-camera.svg');
 }
 .solid.video-camera-slash {
-  --icon: url('/_static/icon/solid/video-camera-slash.svg');
+  --icon: url('/_public/icon/solid/video-camera-slash.svg');
 }
 .solid.view-columns {
-  --icon: url('/_static/icon/solid/view-columns.svg');
+  --icon: url('/_public/icon/solid/view-columns.svg');
 }
 .solid.viewfinder-circle {
-  --icon: url('/_static/icon/solid/viewfinder-circle.svg');
+  --icon: url('/_public/icon/solid/viewfinder-circle.svg');
 }
 .solid.wallet {
-  --icon: url('/_static/icon/solid/wallet.svg');
+  --icon: url('/_public/icon/solid/wallet.svg');
 }
 .solid.wifi {
-  --icon: url('/_static/icon/solid/wifi.svg');
+  --icon: url('/_public/icon/solid/wifi.svg');
 }
 .solid.window {
-  --icon: url('/_static/icon/solid/window.svg');
+  --icon: url('/_public/icon/solid/window.svg');
 }
 .solid.wrench {
-  --icon: url('/_static/icon/solid/wrench.svg');
+  --icon: url('/_public/icon/solid/wrench.svg');
 }
 .solid.wrench-screwdriver {
-  --icon: url('/_static/icon/solid/wrench-screwdriver.svg');
+  --icon: url('/_public/icon/solid/wrench-screwdriver.svg');
 }
 .solid.x-circle {
-  --icon: url('/_static/icon/solid/x-circle.svg');
+  --icon: url('/_public/icon/solid/x-circle.svg');
 }
 .solid.x-mark {
-  --icon: url('/_static/icon/solid/x-mark.svg');
+  --icon: url('/_public/icon/solid/x-mark.svg');
 }
 /* Mini */
 .mini.academic-cap {
-  --icon: url('/_static/icon/mini/academic-cap.svg');
+  --icon: url('/_public/icon/mini/academic-cap.svg');
 }
 .mini.adjustments-horizontal {
-  --icon: url('/_static/icon/mini/adjustments-horizontal.svg');
+  --icon: url('/_public/icon/mini/adjustments-horizontal.svg');
 }
 .mini.adjustments-vertical {
-  --icon: url('/_static/icon/mini/adjustments-vertical.svg');
+  --icon: url('/_public/icon/mini/adjustments-vertical.svg');
 }
 .mini.archive-box {
-  --icon: url('/_static/icon/mini/archive-box.svg');
+  --icon: url('/_public/icon/mini/archive-box.svg');
 }
 .mini.archive-box-arrow-down {
-  --icon: url('/_static/icon/mini/archive-box-arrow-down.svg');
+  --icon: url('/_public/icon/mini/archive-box-arrow-down.svg');
 }
 .mini.archive-box-x-mark {
-  --icon: url('/_static/icon/mini/archive-box-x-mark.svg');
+  --icon: url('/_public/icon/mini/archive-box-x-mark.svg');
 }
 .mini.arrow-down {
-  --icon: url('/_static/icon/mini/arrow-down.svg');
+  --icon: url('/_public/icon/mini/arrow-down.svg');
 }
 .mini.arrow-down-circle {
-  --icon: url('/_static/icon/mini/arrow-down-circle.svg');
+  --icon: url('/_public/icon/mini/arrow-down-circle.svg');
 }
 .mini.arrow-down-left {
-  --icon: url('/_static/icon/mini/arrow-down-left.svg');
+  --icon: url('/_public/icon/mini/arrow-down-left.svg');
 }
 .mini.arrow-down-on-square {
-  --icon: url('/_static/icon/mini/arrow-down-on-square.svg');
+  --icon: url('/_public/icon/mini/arrow-down-on-square.svg');
 }
 .mini.arrow-down-on-square-stack {
-  --icon: url('/_static/icon/mini/arrow-down-on-square-stack.svg');
+  --icon: url('/_public/icon/mini/arrow-down-on-square-stack.svg');
 }
 .mini.arrow-down-right {
-  --icon: url('/_static/icon/mini/arrow-down-right.svg');
+  --icon: url('/_public/icon/mini/arrow-down-right.svg');
 }
 .mini.arrow-down-tray {
-  --icon: url('/_static/icon/mini/arrow-down-tray.svg');
+  --icon: url('/_public/icon/mini/arrow-down-tray.svg');
 }
 .mini.arrow-left {
-  --icon: url('/_static/icon/mini/arrow-left.svg');
+  --icon: url('/_public/icon/mini/arrow-left.svg');
 }
 .mini.arrow-left-circle {
-  --icon: url('/_static/icon/mini/arrow-left-circle.svg');
+  --icon: url('/_public/icon/mini/arrow-left-circle.svg');
 }
 .mini.arrow-left-on-rectangle {
-  --icon: url('/_static/icon/mini/arrow-left-on-rectangle.svg');
+  --icon: url('/_public/icon/mini/arrow-left-on-rectangle.svg');
 }
 .mini.arrow-long-down {
-  --icon: url('/_static/icon/mini/arrow-long-down.svg');
+  --icon: url('/_public/icon/mini/arrow-long-down.svg');
 }
 .mini.arrow-long-left {
-  --icon: url('/_static/icon/mini/arrow-long-left.svg');
+  --icon: url('/_public/icon/mini/arrow-long-left.svg');
 }
 .mini.arrow-long-right {
-  --icon: url('/_static/icon/mini/arrow-long-right.svg');
+  --icon: url('/_public/icon/mini/arrow-long-right.svg');
 }
 .mini.arrow-long-up {
-  --icon: url('/_static/icon/mini/arrow-long-up.svg');
+  --icon: url('/_public/icon/mini/arrow-long-up.svg');
 }
 .mini.arrow-path {
-  --icon: url('/_static/icon/mini/arrow-path.svg');
+  --icon: url('/_public/icon/mini/arrow-path.svg');
 }
 .mini.arrow-path-rounded-square {
-  --icon: url('/_static/icon/mini/arrow-path-rounded-square.svg');
+  --icon: url('/_public/icon/mini/arrow-path-rounded-square.svg');
 }
 .mini.arrow-right {
-  --icon: url('/_static/icon/mini/arrow-right.svg');
+  --icon: url('/_public/icon/mini/arrow-right.svg');
 }
 .mini.arrow-right-circle {
-  --icon: url('/_static/icon/mini/arrow-right-circle.svg');
+  --icon: url('/_public/icon/mini/arrow-right-circle.svg');
 }
 .mini.arrow-right-on-rectangle {
-  --icon: url('/_static/icon/mini/arrow-right-on-rectangle.svg');
+  --icon: url('/_public/icon/mini/arrow-right-on-rectangle.svg');
 }
 .mini.arrow-small-down {
-  --icon: url('/_static/icon/mini/arrow-small-down.svg');
+  --icon: url('/_public/icon/mini/arrow-small-down.svg');
 }
 .mini.arrow-small-left {
-  --icon: url('/_static/icon/mini/arrow-small-left.svg');
+  --icon: url('/_public/icon/mini/arrow-small-left.svg');
 }
 .mini.arrow-small-right {
-  --icon: url('/_static/icon/mini/arrow-small-right.svg');
+  --icon: url('/_public/icon/mini/arrow-small-right.svg');
 }
 .mini.arrow-small-up {
-  --icon: url('/_static/icon/mini/arrow-small-up.svg');
+  --icon: url('/_public/icon/mini/arrow-small-up.svg');
 }
 .mini.arrow-top-right-on-square {
-  --icon: url('/_static/icon/mini/arrow-top-right-on-square.svg');
+  --icon: url('/_public/icon/mini/arrow-top-right-on-square.svg');
 }
 .mini.arrow-trending-down {
-  --icon: url('/_static/icon/mini/arrow-trending-down.svg');
+  --icon: url('/_public/icon/mini/arrow-trending-down.svg');
 }
 .mini.arrow-trending-up {
-  --icon: url('/_static/icon/mini/arrow-trending-up.svg');
+  --icon: url('/_public/icon/mini/arrow-trending-up.svg');
 }
 .mini.arrow-up {
-  --icon: url('/_static/icon/mini/arrow-up.svg');
+  --icon: url('/_public/icon/mini/arrow-up.svg');
 }
 .mini.arrow-up-circle {
-  --icon: url('/_static/icon/mini/arrow-up-circle.svg');
+  --icon: url('/_public/icon/mini/arrow-up-circle.svg');
 }
 .mini.arrow-up-left {
-  --icon: url('/_static/icon/mini/arrow-up-left.svg');
+  --icon: url('/_public/icon/mini/arrow-up-left.svg');
 }
 .mini.arrow-up-on-square {
-  --icon: url('/_static/icon/mini/arrow-up-on-square.svg');
+  --icon: url('/_public/icon/mini/arrow-up-on-square.svg');
 }
 .mini.arrow-up-on-square-stack {
-  --icon: url('/_static/icon/mini/arrow-up-on-square-stack.svg');
+  --icon: url('/_public/icon/mini/arrow-up-on-square-stack.svg');
 }
 .mini.arrow-up-right {
-  --icon: url('/_static/icon/mini/arrow-up-right.svg');
+  --icon: url('/_public/icon/mini/arrow-up-right.svg');
 }
 .mini.arrow-up-tray {
-  --icon: url('/_static/icon/mini/arrow-up-tray.svg');
+  --icon: url('/_public/icon/mini/arrow-up-tray.svg');
 }
 .mini.arrow-uturn-down {
-  --icon: url('/_static/icon/mini/arrow-uturn-down.svg');
+  --icon: url('/_public/icon/mini/arrow-uturn-down.svg');
 }
 .mini.arrow-uturn-left {
-  --icon: url('/_static/icon/mini/arrow-uturn-left.svg');
+  --icon: url('/_public/icon/mini/arrow-uturn-left.svg');
 }
 .mini.arrow-uturn-right {
-  --icon: url('/_static/icon/mini/arrow-uturn-right.svg');
+  --icon: url('/_public/icon/mini/arrow-uturn-right.svg');
 }
 .mini.arrow-uturn-up {
-  --icon: url('/_static/icon/mini/arrow-uturn-up.svg');
+  --icon: url('/_public/icon/mini/arrow-uturn-up.svg');
 }
 .mini.arrows-pointing-in {
-  --icon: url('/_static/icon/mini/arrows-pointing-in.svg');
+  --icon: url('/_public/icon/mini/arrows-pointing-in.svg');
 }
 .mini.arrows-pointing-out {
-  --icon: url('/_static/icon/mini/arrows-pointing-out.svg');
+  --icon: url('/_public/icon/mini/arrows-pointing-out.svg');
 }
 .mini.arrows-right-left {
-  --icon: url('/_static/icon/mini/arrows-right-left.svg');
+  --icon: url('/_public/icon/mini/arrows-right-left.svg');
 }
 .mini.arrows-up-down {
-  --icon: url('/_static/icon/mini/arrows-up-down.svg');
+  --icon: url('/_public/icon/mini/arrows-up-down.svg');
 }
 .mini.at-symbol {
-  --icon: url('/_static/icon/mini/at-symbol.svg');
+  --icon: url('/_public/icon/mini/at-symbol.svg');
 }
 .mini.backspace {
-  --icon: url('/_static/icon/mini/backspace.svg');
+  --icon: url('/_public/icon/mini/backspace.svg');
 }
 .mini.backward {
-  --icon: url('/_static/icon/mini/backward.svg');
+  --icon: url('/_public/icon/mini/backward.svg');
 }
 .mini.banknotes {
-  --icon: url('/_static/icon/mini/banknotes.svg');
+  --icon: url('/_public/icon/mini/banknotes.svg');
 }
 .mini.bars-2 {
-  --icon: url('/_static/icon/mini/bars-2.svg');
+  --icon: url('/_public/icon/mini/bars-2.svg');
 }
 .mini.bars-3 {
-  --icon: url('/_static/icon/mini/bars-3.svg');
+  --icon: url('/_public/icon/mini/bars-3.svg');
 }
 .mini.bars-3-bottom-left {
-  --icon: url('/_static/icon/mini/bars-3-bottom-left.svg');
+  --icon: url('/_public/icon/mini/bars-3-bottom-left.svg');
 }
 .mini.bars-3-bottom-right {
-  --icon: url('/_static/icon/mini/bars-3-bottom-right.svg');
+  --icon: url('/_public/icon/mini/bars-3-bottom-right.svg');
 }
 .mini.bars-3-center-left {
-  --icon: url('/_static/icon/mini/bars-3-center-left.svg');
+  --icon: url('/_public/icon/mini/bars-3-center-left.svg');
 }
 .mini.bars-4 {
-  --icon: url('/_static/icon/mini/bars-4.svg');
+  --icon: url('/_public/icon/mini/bars-4.svg');
 }
 .mini.bars-arrow-down {
-  --icon: url('/_static/icon/mini/bars-arrow-down.svg');
+  --icon: url('/_public/icon/mini/bars-arrow-down.svg');
 }
 .mini.bars-arrow-up {
-  --icon: url('/_static/icon/mini/bars-arrow-up.svg');
+  --icon: url('/_public/icon/mini/bars-arrow-up.svg');
 }
 .mini.battery-0 {
-  --icon: url('/_static/icon/mini/battery-0.svg');
+  --icon: url('/_public/icon/mini/battery-0.svg');
 }
 .mini.battery-100 {
-  --icon: url('/_static/icon/mini/battery-100.svg');
+  --icon: url('/_public/icon/mini/battery-100.svg');
 }
 .mini.battery-50 {
-  --icon: url('/_static/icon/mini/battery-50.svg');
+  --icon: url('/_public/icon/mini/battery-50.svg');
 }
 .mini.beaker {
-  --icon: url('/_static/icon/mini/beaker.svg');
+  --icon: url('/_public/icon/mini/beaker.svg');
 }
 .mini.bell {
-  --icon: url('/_static/icon/mini/bell.svg');
+  --icon: url('/_public/icon/mini/bell.svg');
 }
 .mini.bell-alert {
-  --icon: url('/_static/icon/mini/bell-alert.svg');
+  --icon: url('/_public/icon/mini/bell-alert.svg');
 }
 .mini.bell-slash {
-  --icon: url('/_static/icon/mini/bell-slash.svg');
+  --icon: url('/_public/icon/mini/bell-slash.svg');
 }
 .mini.bell-snooze {
-  --icon: url('/_static/icon/mini/bell-snooze.svg');
+  --icon: url('/_public/icon/mini/bell-snooze.svg');
 }
 .mini.bolt {
-  --icon: url('/_static/icon/mini/bolt.svg');
+  --icon: url('/_public/icon/mini/bolt.svg');
 }
 .mini.bolt-slash {
-  --icon: url('/_static/icon/mini/bolt-slash.svg');
+  --icon: url('/_public/icon/mini/bolt-slash.svg');
 }
 .mini.book-open {
-  --icon: url('/_static/icon/mini/book-open.svg');
+  --icon: url('/_public/icon/mini/book-open.svg');
 }
 .mini.bookmark {
-  --icon: url('/_static/icon/mini/bookmark.svg');
+  --icon: url('/_public/icon/mini/bookmark.svg');
 }
 .mini.bookmark-slash {
-  --icon: url('/_static/icon/mini/bookmark-slash.svg');
+  --icon: url('/_public/icon/mini/bookmark-slash.svg');
 }
 .mini.bookmark-square {
-  --icon: url('/_static/icon/mini/bookmark-square.svg');
+  --icon: url('/_public/icon/mini/bookmark-square.svg');
 }
 .mini.briefcase {
-  --icon: url('/_static/icon/mini/briefcase.svg');
+  --icon: url('/_public/icon/mini/briefcase.svg');
 }
 .mini.bug-ant {
-  --icon: url('/_static/icon/mini/bug-ant.svg');
+  --icon: url('/_public/icon/mini/bug-ant.svg');
 }
 .mini.building-library {
-  --icon: url('/_static/icon/mini/building-library.svg');
+  --icon: url('/_public/icon/mini/building-library.svg');
 }
 .mini.building-office {
-  --icon: url('/_static/icon/mini/building-office.svg');
+  --icon: url('/_public/icon/mini/building-office.svg');
 }
 .mini.building-office-2 {
-  --icon: url('/_static/icon/mini/building-office-2.svg');
+  --icon: url('/_public/icon/mini/building-office-2.svg');
 }
 .mini.building-storefront {
-  --icon: url('/_static/icon/mini/building-storefront.svg');
+  --icon: url('/_public/icon/mini/building-storefront.svg');
 }
 .mini.cake {
-  --icon: url('/_static/icon/mini/cake.svg');
+  --icon: url('/_public/icon/mini/cake.svg');
 }
 .mini.calculator {
-  --icon: url('/_static/icon/mini/calculator.svg');
+  --icon: url('/_public/icon/mini/calculator.svg');
 }
 .mini.calendar {
-  --icon: url('/_static/icon/mini/calendar.svg');
+  --icon: url('/_public/icon/mini/calendar.svg');
 }
 .mini.calendar-days {
-  --icon: url('/_static/icon/mini/calendar-days.svg');
+  --icon: url('/_public/icon/mini/calendar-days.svg');
 }
 .mini.camera {
-  --icon: url('/_static/icon/mini/camera.svg');
+  --icon: url('/_public/icon/mini/camera.svg');
 }
 .mini.chart-bar {
-  --icon: url('/_static/icon/mini/chart-bar.svg');
+  --icon: url('/_public/icon/mini/chart-bar.svg');
 }
 .mini.chart-bar-square {
-  --icon: url('/_static/icon/mini/chart-bar-square.svg');
+  --icon: url('/_public/icon/mini/chart-bar-square.svg');
 }
 .mini.chart-pie {
-  --icon: url('/_static/icon/mini/chart-pie.svg');
+  --icon: url('/_public/icon/mini/chart-pie.svg');
 }
 .mini.chat-bubble-bottom-center {
-  --icon: url('/_static/icon/mini/chat-bubble-bottom-center.svg');
+  --icon: url('/_public/icon/mini/chat-bubble-bottom-center.svg');
 }
 .mini.chat-bubble-bottom-center-text {
-  --icon: url('/_static/icon/mini/chat-bubble-bottom-center-text.svg');
+  --icon: url('/_public/icon/mini/chat-bubble-bottom-center-text.svg');
 }
 .mini.chat-bubble-left {
-  --icon: url('/_static/icon/mini/chat-bubble-left.svg');
+  --icon: url('/_public/icon/mini/chat-bubble-left.svg');
 }
 .mini.chat-bubble-left-ellipsis {
-  --icon: url('/_static/icon/mini/chat-bubble-left-ellipsis.svg');
+  --icon: url('/_public/icon/mini/chat-bubble-left-ellipsis.svg');
 }
 .mini.chat-bubble-left-right {
-  --icon: url('/_static/icon/mini/chat-bubble-left-right.svg');
+  --icon: url('/_public/icon/mini/chat-bubble-left-right.svg');
 }
 .mini.chat-bubble-oval-left {
-  --icon: url('/_static/icon/mini/chat-bubble-oval-left.svg');
+  --icon: url('/_public/icon/mini/chat-bubble-oval-left.svg');
 }
 .mini.chat-bubble-oval-left-ellipsis {
-  --icon: url('/_static/icon/mini/chat-bubble-oval-left-ellipsis.svg');
+  --icon: url('/_public/icon/mini/chat-bubble-oval-left-ellipsis.svg');
 }
 .mini.check {
-  --icon: url('/_static/icon/mini/check.svg');
+  --icon: url('/_public/icon/mini/check.svg');
 }
 .mini.check-badge {
-  --icon: url('/_static/icon/mini/check-badge.svg');
+  --icon: url('/_public/icon/mini/check-badge.svg');
 }
 .mini.check-circle {
-  --icon: url('/_static/icon/mini/check-circle.svg');
+  --icon: url('/_public/icon/mini/check-circle.svg');
 }
 .mini.chevron-double-down {
-  --icon: url('/_static/icon/mini/chevron-double-down.svg');
+  --icon: url('/_public/icon/mini/chevron-double-down.svg');
 }
 .mini.chevron-double-left {
-  --icon: url('/_static/icon/mini/chevron-double-left.svg');
+  --icon: url('/_public/icon/mini/chevron-double-left.svg');
 }
 .mini.chevron-double-right {
-  --icon: url('/_static/icon/mini/chevron-double-right.svg');
+  --icon: url('/_public/icon/mini/chevron-double-right.svg');
 }
 .mini.chevron-double-up {
-  --icon: url('/_static/icon/mini/chevron-double-up.svg');
+  --icon: url('/_public/icon/mini/chevron-double-up.svg');
 }
 .mini.chevron-down {
-  --icon: url('/_static/icon/mini/chevron-down.svg');
+  --icon: url('/_public/icon/mini/chevron-down.svg');
 }
 .mini.chevron-left {
-  --icon: url('/_static/icon/mini/chevron-left.svg');
+  --icon: url('/_public/icon/mini/chevron-left.svg');
 }
 .mini.chevron-right {
-  --icon: url('/_static/icon/mini/chevron-right.svg');
+  --icon: url('/_public/icon/mini/chevron-right.svg');
 }
 .mini.chevron-up {
-  --icon: url('/_static/icon/mini/chevron-up.svg');
+  --icon: url('/_public/icon/mini/chevron-up.svg');
 }
 .mini.chevron-up-down {
-  --icon: url('/_static/icon/mini/chevron-up-down.svg');
+  --icon: url('/_public/icon/mini/chevron-up-down.svg');
 }
 .mini.circle-stack {
-  --icon: url('/_static/icon/mini/circle-stack.svg');
+  --icon: url('/_public/icon/mini/circle-stack.svg');
 }
 .mini.clipboard {
-  --icon: url('/_static/icon/mini/clipboard.svg');
+  --icon: url('/_public/icon/mini/clipboard.svg');
 }
 .mini.clipboard-document {
-  --icon: url('/_static/icon/mini/clipboard-document.svg');
+  --icon: url('/_public/icon/mini/clipboard-document.svg');
 }
 .mini.clipboard-document-check {
-  --icon: url('/_static/icon/mini/clipboard-document-check.svg');
+  --icon: url('/_public/icon/mini/clipboard-document-check.svg');
 }
 .mini.clipboard-document-list {
-  --icon: url('/_static/icon/mini/clipboard-document-list.svg');
+  --icon: url('/_public/icon/mini/clipboard-document-list.svg');
 }
 .mini.clock {
-  --icon: url('/_static/icon/mini/clock.svg');
+  --icon: url('/_public/icon/mini/clock.svg');
 }
 .mini.cloud {
-  --icon: url('/_static/icon/mini/cloud.svg');
+  --icon: url('/_public/icon/mini/cloud.svg');
 }
 .mini.cloud-arrow-down {
-  --icon: url('/_static/icon/mini/cloud-arrow-down.svg');
+  --icon: url('/_public/icon/mini/cloud-arrow-down.svg');
 }
 .mini.cloud-arrow-up {
-  --icon: url('/_static/icon/mini/cloud-arrow-up.svg');
+  --icon: url('/_public/icon/mini/cloud-arrow-up.svg');
 }
 .mini.code-bracket {
-  --icon: url('/_static/icon/mini/code-bracket.svg');
+  --icon: url('/_public/icon/mini/code-bracket.svg');
 }
 .mini.code-bracket-square {
-  --icon: url('/_static/icon/mini/code-bracket-square.svg');
+  --icon: url('/_public/icon/mini/code-bracket-square.svg');
 }
 .mini.cog {
-  --icon: url('/_static/icon/mini/cog.svg');
+  --icon: url('/_public/icon/mini/cog.svg');
 }
 .mini.cog-6-tooth {
-  --icon: url('/_static/icon/mini/cog-6-tooth.svg');
+  --icon: url('/_public/icon/mini/cog-6-tooth.svg');
 }
 .mini.cog-8-tooth {
-  --icon: url('/_static/icon/mini/cog-8-tooth.svg');
+  --icon: url('/_public/icon/mini/cog-8-tooth.svg');
 }
 .mini.command-line {
-  --icon: url('/_static/icon/mini/command-line.svg');
+  --icon: url('/_public/icon/mini/command-line.svg');
 }
 .mini.computer-desktop {
-  --icon: url('/_static/icon/mini/computer-desktop.svg');
+  --icon: url('/_public/icon/mini/computer-desktop.svg');
 }
 .mini.cpu-chip {
-  --icon: url('/_static/icon/mini/cpu-chip.svg');
+  --icon: url('/_public/icon/mini/cpu-chip.svg');
 }
 .mini.credit-card {
-  --icon: url('/_static/icon/mini/credit-card.svg');
+  --icon: url('/_public/icon/mini/credit-card.svg');
 }
 .mini.cube {
-  --icon: url('/_static/icon/mini/cube.svg');
+  --icon: url('/_public/icon/mini/cube.svg');
 }
 .mini.cube-transparent {
-  --icon: url('/_static/icon/mini/cube-transparent.svg');
+  --icon: url('/_public/icon/mini/cube-transparent.svg');
 }
 .mini.currency-bangladeshi {
-  --icon: url('/_static/icon/mini/currency-bangladeshi.svg');
+  --icon: url('/_public/icon/mini/currency-bangladeshi.svg');
 }
 .mini.currency-dollar {
-  --icon: url('/_static/icon/mini/currency-dollar.svg');
+  --icon: url('/_public/icon/mini/currency-dollar.svg');
 }
 .mini.currency-euro {
-  --icon: url('/_static/icon/mini/currency-euro.svg');
+  --icon: url('/_public/icon/mini/currency-euro.svg');
 }
 .mini.currency-pound {
-  --icon: url('/_static/icon/mini/currency-pound.svg');
+  --icon: url('/_public/icon/mini/currency-pound.svg');
 }
 .mini.currency-rupee {
-  --icon: url('/_static/icon/mini/currency-rupee.svg');
+  --icon: url('/_public/icon/mini/currency-rupee.svg');
 }
 .mini.currency-yen {
-  --icon: url('/_static/icon/mini/currency-yen.svg');
+  --icon: url('/_public/icon/mini/currency-yen.svg');
 }
 .mini.cursor-arrow-rays {
-  --icon: url('/_static/icon/mini/cursor-arrow-rays.svg');
+  --icon: url('/_public/icon/mini/cursor-arrow-rays.svg');
 }
 .mini.cursor-arrow-ripple {
-  --icon: url('/_static/icon/mini/cursor-arrow-ripple.svg');
+  --icon: url('/_public/icon/mini/cursor-arrow-ripple.svg');
 }
 .mini.device-phone-mobile {
-  --icon: url('/_static/icon/mini/device-phone-mobile.svg');
+  --icon: url('/_public/icon/mini/device-phone-mobile.svg');
 }
 .mini.device-tablet {
-  --icon: url('/_static/icon/mini/device-tablet.svg');
+  --icon: url('/_public/icon/mini/device-tablet.svg');
 }
 .mini.document {
-  --icon: url('/_static/icon/mini/document.svg');
+  --icon: url('/_public/icon/mini/document.svg');
 }
 .mini.document-arrow-down {
-  --icon: url('/_static/icon/mini/document-arrow-down.svg');
+  --icon: url('/_public/icon/mini/document-arrow-down.svg');
 }
 .mini.document-arrow-up {
-  --icon: url('/_static/icon/mini/document-arrow-up.svg');
+  --icon: url('/_public/icon/mini/document-arrow-up.svg');
 }
 .mini.document-chart-bar {
-  --icon: url('/_static/icon/mini/document-chart-bar.svg');
+  --icon: url('/_public/icon/mini/document-chart-bar.svg');
 }
 .mini.document-check {
-  --icon: url('/_static/icon/mini/document-check.svg');
+  --icon: url('/_public/icon/mini/document-check.svg');
 }
 .mini.document-duplicate {
-  --icon: url('/_static/icon/mini/document-duplicate.svg');
+  --icon: url('/_public/icon/mini/document-duplicate.svg');
 }
 .mini.document-magnifying-glass {
-  --icon: url('/_static/icon/mini/document-magnifying-glass.svg');
+  --icon: url('/_public/icon/mini/document-magnifying-glass.svg');
 }
 .mini.document-minus {
-  --icon: url('/_static/icon/mini/document-minus.svg');
+  --icon: url('/_public/icon/mini/document-minus.svg');
 }
 .mini.document-plus {
-  --icon: url('/_static/icon/mini/document-plus.svg');
+  --icon: url('/_public/icon/mini/document-plus.svg');
 }
 .mini.document-text {
-  --icon: url('/_static/icon/mini/document-text.svg');
+  --icon: url('/_public/icon/mini/document-text.svg');
 }
 .mini.ellipsis-horizontal {
-  --icon: url('/_static/icon/mini/ellipsis-horizontal.svg');
+  --icon: url('/_public/icon/mini/ellipsis-horizontal.svg');
 }
 .mini.ellipsis-horizontal-circle {
-  --icon: url('/_static/icon/mini/ellipsis-horizontal-circle.svg');
+  --icon: url('/_public/icon/mini/ellipsis-horizontal-circle.svg');
 }
 .mini.ellipsis-vertical {
-  --icon: url('/_static/icon/mini/ellipsis-vertical.svg');
+  --icon: url('/_public/icon/mini/ellipsis-vertical.svg');
 }
 .mini.envelope {
-  --icon: url('/_static/icon/mini/envelope.svg');
+  --icon: url('/_public/icon/mini/envelope.svg');
 }
 .mini.envelope-open {
-  --icon: url('/_static/icon/mini/envelope-open.svg');
+  --icon: url('/_public/icon/mini/envelope-open.svg');
 }
 .mini.exclamation-circle {
-  --icon: url('/_static/icon/mini/exclamation-circle.svg');
+  --icon: url('/_public/icon/mini/exclamation-circle.svg');
 }
 .mini.exclamation-triangle {
-  --icon: url('/_static/icon/mini/exclamation-triangle.svg');
+  --icon: url('/_public/icon/mini/exclamation-triangle.svg');
 }
 .mini.eye {
-  --icon: url('/_static/icon/mini/eye.svg');
+  --icon: url('/_public/icon/mini/eye.svg');
 }
 .mini.eye-dropper {
-  --icon: url('/_static/icon/mini/eye-dropper.svg');
+  --icon: url('/_public/icon/mini/eye-dropper.svg');
 }
 .mini.eye-slash {
-  --icon: url('/_static/icon/mini/eye-slash.svg');
+  --icon: url('/_public/icon/mini/eye-slash.svg');
 }
 .mini.face-frown {
-  --icon: url('/_static/icon/mini/face-frown.svg');
+  --icon: url('/_public/icon/mini/face-frown.svg');
 }
 .mini.face-smile {
-  --icon: url('/_static/icon/mini/face-smile.svg');
+  --icon: url('/_public/icon/mini/face-smile.svg');
 }
 .mini.film {
-  --icon: url('/_static/icon/mini/film.svg');
+  --icon: url('/_public/icon/mini/film.svg');
 }
 .mini.finger-print {
-  --icon: url('/_static/icon/mini/finger-print.svg');
+  --icon: url('/_public/icon/mini/finger-print.svg');
 }
 .mini.fire {
-  --icon: url('/_static/icon/mini/fire.svg');
+  --icon: url('/_public/icon/mini/fire.svg');
 }
 .mini.flag {
-  --icon: url('/_static/icon/mini/flag.svg');
+  --icon: url('/_public/icon/mini/flag.svg');
 }
 .mini.folder {
-  --icon: url('/_static/icon/mini/folder.svg');
+  --icon: url('/_public/icon/mini/folder.svg');
 }
 .mini.folder-arrow-down {
-  --icon: url('/_static/icon/mini/folder-arrow-down.svg');
+  --icon: url('/_public/icon/mini/folder-arrow-down.svg');
 }
 .mini.folder-minus {
-  --icon: url('/_static/icon/mini/folder-minus.svg');
+  --icon: url('/_public/icon/mini/folder-minus.svg');
 }
 .mini.folder-open {
-  --icon: url('/_static/icon/mini/folder-open.svg');
+  --icon: url('/_public/icon/mini/folder-open.svg');
 }
 .mini.folder-plus {
-  --icon: url('/_static/icon/mini/folder-plus.svg');
+  --icon: url('/_public/icon/mini/folder-plus.svg');
 }
 .mini.forward {
-  --icon: url('/_static/icon/mini/forward.svg');
+  --icon: url('/_public/icon/mini/forward.svg');
 }
 .mini.funnel {
-  --icon: url('/_static/icon/mini/funnel.svg');
+  --icon: url('/_public/icon/mini/funnel.svg');
 }
 .mini.gif {
-  --icon: url('/_static/icon/mini/gif.svg');
+  --icon: url('/_public/icon/mini/gif.svg');
 }
 .mini.gift {
-  --icon: url('/_static/icon/mini/gift.svg');
+  --icon: url('/_public/icon/mini/gift.svg');
 }
 .mini.gift-top {
-  --icon: url('/_static/icon/mini/gift-top.svg');
+  --icon: url('/_public/icon/mini/gift-top.svg');
 }
 .mini.globe-alt {
-  --icon: url('/_static/icon/mini/globe-alt.svg');
+  --icon: url('/_public/icon/mini/globe-alt.svg');
 }
 .mini.globe-americas {
-  --icon: url('/_static/icon/mini/globe-americas.svg');
+  --icon: url('/_public/icon/mini/globe-americas.svg');
 }
 .mini.globe-asia-australia {
-  --icon: url('/_static/icon/mini/globe-asia-australia.svg');
+  --icon: url('/_public/icon/mini/globe-asia-australia.svg');
 }
 .mini.globe-europe-africa {
-  --icon: url('/_static/icon/mini/globe-europe-africa.svg');
+  --icon: url('/_public/icon/mini/globe-europe-africa.svg');
 }
 .mini.hand-raised {
-  --icon: url('/_static/icon/mini/hand-raised.svg');
+  --icon: url('/_public/icon/mini/hand-raised.svg');
 }
 .mini.hand-thumb-down {
-  --icon: url('/_static/icon/mini/hand-thumb-down.svg');
+  --icon: url('/_public/icon/mini/hand-thumb-down.svg');
 }
 .mini.hand-thumb-up {
-  --icon: url('/_static/icon/mini/hand-thumb-up.svg');
+  --icon: url('/_public/icon/mini/hand-thumb-up.svg');
 }
 .mini.hashtag {
-  --icon: url('/_static/icon/mini/hashtag.svg');
+  --icon: url('/_public/icon/mini/hashtag.svg');
 }
 .mini.heart {
-  --icon: url('/_static/icon/mini/heart.svg');
+  --icon: url('/_public/icon/mini/heart.svg');
 }
 .mini.home {
-  --icon: url('/_static/icon/mini/home.svg');
+  --icon: url('/_public/icon/mini/home.svg');
 }
 .mini.home-modern {
-  --icon: url('/_static/icon/mini/home-modern.svg');
+  --icon: url('/_public/icon/mini/home-modern.svg');
 }
 .mini.identification {
-  --icon: url('/_static/icon/mini/identification.svg');
+  --icon: url('/_public/icon/mini/identification.svg');
 }
 .mini.inbox {
-  --icon: url('/_static/icon/mini/inbox.svg');
+  --icon: url('/_public/icon/mini/inbox.svg');
 }
 .mini.inbox-arrow-down {
-  --icon: url('/_static/icon/mini/inbox-arrow-down.svg');
+  --icon: url('/_public/icon/mini/inbox-arrow-down.svg');
 }
 .mini.inbox-stack {
-  --icon: url('/_static/icon/mini/inbox-stack.svg');
+  --icon: url('/_public/icon/mini/inbox-stack.svg');
 }
 .mini.information-circle {
-  --icon: url('/_static/icon/mini/information-circle.svg');
+  --icon: url('/_public/icon/mini/information-circle.svg');
 }
 .mini.key {
-  --icon: url('/_static/icon/mini/key.svg');
+  --icon: url('/_public/icon/mini/key.svg');
 }
 .mini.language {
-  --icon: url('/_static/icon/mini/language.svg');
+  --icon: url('/_public/icon/mini/language.svg');
 }
 .mini.lifebuoy {
-  --icon: url('/_static/icon/mini/lifebuoy.svg');
+  --icon: url('/_public/icon/mini/lifebuoy.svg');
 }
 .mini.light-bulb {
-  --icon: url('/_static/icon/mini/light-bulb.svg');
+  --icon: url('/_public/icon/mini/light-bulb.svg');
 }
 .mini.link {
-  --icon: url('/_static/icon/mini/link.svg');
+  --icon: url('/_public/icon/mini/link.svg');
 }
 .mini.list-bullet {
-  --icon: url('/_static/icon/mini/list-bullet.svg');
+  --icon: url('/_public/icon/mini/list-bullet.svg');
 }
 .mini.lock-closed {
-  --icon: url('/_static/icon/mini/lock-closed.svg');
+  --icon: url('/_public/icon/mini/lock-closed.svg');
 }
 .mini.lock-open {
-  --icon: url('/_static/icon/mini/lock-open.svg');
+  --icon: url('/_public/icon/mini/lock-open.svg');
 }
 .mini.magnifying-glass {
-  --icon: url('/_static/icon/mini/magnifying-glass.svg');
+  --icon: url('/_public/icon/mini/magnifying-glass.svg');
 }
 .mini.magnifying-glass-circle {
-  --icon: url('/_static/icon/mini/magnifying-glass-circle.svg');
+  --icon: url('/_public/icon/mini/magnifying-glass-circle.svg');
 }
 .mini.magnifying-glass-minus {
-  --icon: url('/_static/icon/mini/magnifying-glass-minus.svg');
+  --icon: url('/_public/icon/mini/magnifying-glass-minus.svg');
 }
 .mini.magnifying-glass-plus {
-  --icon: url('/_static/icon/mini/magnifying-glass-plus.svg');
+  --icon: url('/_public/icon/mini/magnifying-glass-plus.svg');
 }
 .mini.map {
-  --icon: url('/_static/icon/mini/map.svg');
+  --icon: url('/_public/icon/mini/map.svg');
 }
 .mini.map-pin {
-  --icon: url('/_static/icon/mini/map-pin.svg');
+  --icon: url('/_public/icon/mini/map-pin.svg');
 }
 .mini.megaphone {
-  --icon: url('/_static/icon/mini/megaphone.svg');
+  --icon: url('/_public/icon/mini/megaphone.svg');
 }
 .mini.microphone {
-  --icon: url('/_static/icon/mini/microphone.svg');
+  --icon: url('/_public/icon/mini/microphone.svg');
 }
 .mini.minus {
-  --icon: url('/_static/icon/mini/minus.svg');
+  --icon: url('/_public/icon/mini/minus.svg');
 }
 .mini.minus-circle {
-  --icon: url('/_static/icon/mini/minus-circle.svg');
+  --icon: url('/_public/icon/mini/minus-circle.svg');
 }
 .mini.minus-small {
-  --icon: url('/_static/icon/mini/minus-small.svg');
+  --icon: url('/_public/icon/mini/minus-small.svg');
 }
 .mini.moon {
-  --icon: url('/_static/icon/mini/moon.svg');
+  --icon: url('/_public/icon/mini/moon.svg');
 }
 .mini.musical-note {
-  --icon: url('/_static/icon/mini/musical-note.svg');
+  --icon: url('/_public/icon/mini/musical-note.svg');
 }
 .mini.newspaper {
-  --icon: url('/_static/icon/mini/newspaper.svg');
+  --icon: url('/_public/icon/mini/newspaper.svg');
 }
 .mini.no-symbol {
-  --icon: url('/_static/icon/mini/no-symbol.svg');
+  --icon: url('/_public/icon/mini/no-symbol.svg');
 }
 .mini.paint-brush {
-  --icon: url('/_static/icon/mini/paint-brush.svg');
+  --icon: url('/_public/icon/mini/paint-brush.svg');
 }
 .mini.paper-airplane {
-  --icon: url('/_static/icon/mini/paper-airplane.svg');
+  --icon: url('/_public/icon/mini/paper-airplane.svg');
 }
 .mini.paper-clip {
-  --icon: url('/_static/icon/mini/paper-clip.svg');
+  --icon: url('/_public/icon/mini/paper-clip.svg');
 }
 .mini.pause {
-  --icon: url('/_static/icon/mini/pause.svg');
+  --icon: url('/_public/icon/mini/pause.svg');
 }
 .mini.pause-circle {
-  --icon: url('/_static/icon/mini/pause-circle.svg');
+  --icon: url('/_public/icon/mini/pause-circle.svg');
 }
 .mini.pencil {
-  --icon: url('/_static/icon/mini/pencil.svg');
+  --icon: url('/_public/icon/mini/pencil.svg');
 }
 .mini.pencil-square {
-  --icon: url('/_static/icon/mini/pencil-square.svg');
+  --icon: url('/_public/icon/mini/pencil-square.svg');
 }
 .mini.phone {
-  --icon: url('/_static/icon/mini/phone.svg');
+  --icon: url('/_public/icon/mini/phone.svg');
 }
 .mini.phone-arrow-down-left {
-  --icon: url('/_static/icon/mini/phone-arrow-down-left.svg');
+  --icon: url('/_public/icon/mini/phone-arrow-down-left.svg');
 }
 .mini.phone-arrow-up-right {
-  --icon: url('/_static/icon/mini/phone-arrow-up-right.svg');
+  --icon: url('/_public/icon/mini/phone-arrow-up-right.svg');
 }
 .mini.phone-x-mark {
-  --icon: url('/_static/icon/mini/phone-x-mark.svg');
+  --icon: url('/_public/icon/mini/phone-x-mark.svg');
 }
 .mini.photo {
-  --icon: url('/_static/icon/mini/photo.svg');
+  --icon: url('/_public/icon/mini/photo.svg');
 }
 .mini.play {
-  --icon: url('/_static/icon/mini/play.svg');
+  --icon: url('/_public/icon/mini/play.svg');
 }
 .mini.play-circle {
-  --icon: url('/_static/icon/mini/play-circle.svg');
+  --icon: url('/_public/icon/mini/play-circle.svg');
 }
 .mini.play-pause {
-  --icon: url('/_static/icon/mini/play-pause.svg');
+  --icon: url('/_public/icon/mini/play-pause.svg');
 }
 .mini.plus {
-  --icon: url('/_static/icon/mini/plus.svg');
+  --icon: url('/_public/icon/mini/plus.svg');
 }
 .mini.plus-circle {
-  --icon: url('/_static/icon/mini/plus-circle.svg');
+  --icon: url('/_public/icon/mini/plus-circle.svg');
 }
 .mini.plus-small {
-  --icon: url('/_static/icon/mini/plus-small.svg');
+  --icon: url('/_public/icon/mini/plus-small.svg');
 }
 .mini.power {
-  --icon: url('/_static/icon/mini/power.svg');
+  --icon: url('/_public/icon/mini/power.svg');
 }
 .mini.presentation-chart-bar {
-  --icon: url('/_static/icon/mini/presentation-chart-bar.svg');
+  --icon: url('/_public/icon/mini/presentation-chart-bar.svg');
 }
 .mini.presentation-chart-line {
-  --icon: url('/_static/icon/mini/presentation-chart-line.svg');
+  --icon: url('/_public/icon/mini/presentation-chart-line.svg');
 }
 .mini.printer {
-  --icon: url('/_static/icon/mini/printer.svg');
+  --icon: url('/_public/icon/mini/printer.svg');
 }
 .mini.puzzle-piece {
-  --icon: url('/_static/icon/mini/puzzle-piece.svg');
+  --icon: url('/_public/icon/mini/puzzle-piece.svg');
 }
 .mini.qr-code {
-  --icon: url('/_static/icon/mini/qr-code.svg');
+  --icon: url('/_public/icon/mini/qr-code.svg');
 }
 .mini.question-mark-circle {
-  --icon: url('/_static/icon/mini/question-mark-circle.svg');
+  --icon: url('/_public/icon/mini/question-mark-circle.svg');
 }
 .mini.queue-list {
-  --icon: url('/_static/icon/mini/queue-list.svg');
+  --icon: url('/_public/icon/mini/queue-list.svg');
 }
 .mini.radio {
-  --icon: url('/_static/icon/mini/radio.svg');
+  --icon: url('/_public/icon/mini/radio.svg');
 }
 .mini.receipt-percent {
-  --icon: url('/_static/icon/mini/receipt-percent.svg');
+  --icon: url('/_public/icon/mini/receipt-percent.svg');
 }
 .mini.receipt-refund {
-  --icon: url('/_static/icon/mini/receipt-refund.svg');
+  --icon: url('/_public/icon/mini/receipt-refund.svg');
 }
 .mini.rectangle-group {
-  --icon: url('/_static/icon/mini/rectangle-group.svg');
+  --icon: url('/_public/icon/mini/rectangle-group.svg');
 }
 .mini.rectangle-stack {
-  --icon: url('/_static/icon/mini/rectangle-stack.svg');
+  --icon: url('/_public/icon/mini/rectangle-stack.svg');
 }
 .mini.rocket-launch {
-  --icon: url('/_static/icon/mini/rocket-launch.svg');
+  --icon: url('/_public/icon/mini/rocket-launch.svg');
 }
 .mini.rss {
-  --icon: url('/_static/icon/mini/rss.svg');
+  --icon: url('/_public/icon/mini/rss.svg');
 }
 .mini.scale {
-  --icon: url('/_static/icon/mini/scale.svg');
+  --icon: url('/_public/icon/mini/scale.svg');
 }
 .mini.scissors {
-  --icon: url('/_static/icon/mini/scissors.svg');
+  --icon: url('/_public/icon/mini/scissors.svg');
 }
 .mini.server {
-  --icon: url('/_static/icon/mini/server.svg');
+  --icon: url('/_public/icon/mini/server.svg');
 }
 .mini.server-stack {
-  --icon: url('/_static/icon/mini/server-stack.svg');
+  --icon: url('/_public/icon/mini/server-stack.svg');
 }
 .mini.share {
-  --icon: url('/_static/icon/mini/share.svg');
+  --icon: url('/_public/icon/mini/share.svg');
 }
 .mini.shield-check {
-  --icon: url('/_static/icon/mini/shield-check.svg');
+  --icon: url('/_public/icon/mini/shield-check.svg');
 }
 .mini.shield-exclamation {
-  --icon: url('/_static/icon/mini/shield-exclamation.svg');
+  --icon: url('/_public/icon/mini/shield-exclamation.svg');
 }
 .mini.shopping-bag {
-  --icon: url('/_static/icon/mini/shopping-bag.svg');
+  --icon: url('/_public/icon/mini/shopping-bag.svg');
 }
 .mini.shopping-cart {
-  --icon: url('/_static/icon/mini/shopping-cart.svg');
+  --icon: url('/_public/icon/mini/shopping-cart.svg');
 }
 .mini.signal {
-  --icon: url('/_static/icon/mini/signal.svg');
+  --icon: url('/_public/icon/mini/signal.svg');
 }
 .mini.signal-slash {
-  --icon: url('/_static/icon/mini/signal-slash.svg');
+  --icon: url('/_public/icon/mini/signal-slash.svg');
 }
 .mini.sparkles {
-  --icon: url('/_static/icon/mini/sparkles.svg');
+  --icon: url('/_public/icon/mini/sparkles.svg');
 }
 .mini.speaker-wave {
-  --icon: url('/_static/icon/mini/speaker-wave.svg');
+  --icon: url('/_public/icon/mini/speaker-wave.svg');
 }
 .mini.speaker-x-mark {
-  --icon: url('/_static/icon/mini/speaker-x-mark.svg');
+  --icon: url('/_public/icon/mini/speaker-x-mark.svg');
 }
 .mini.square-2-stack {
-  --icon: url('/_static/icon/mini/square-2-stack.svg');
+  --icon: url('/_public/icon/mini/square-2-stack.svg');
 }
 .mini.square-3-stack-3d {
-  --icon: url('/_static/icon/mini/square-3-stack-3d.svg');
+  --icon: url('/_public/icon/mini/square-3-stack-3d.svg');
 }
 .mini.squares-2x2 {
-  --icon: url('/_static/icon/mini/squares-2x2.svg');
+  --icon: url('/_public/icon/mini/squares-2x2.svg');
 }
 .mini.squares-plus {
-  --icon: url('/_static/icon/mini/squares-plus.svg');
+  --icon: url('/_public/icon/mini/squares-plus.svg');
 }
 .mini.star {
-  --icon: url('/_static/icon/mini/star.svg');
+  --icon: url('/_public/icon/mini/star.svg');
 }
 .mini.stop {
-  --icon: url('/_static/icon/mini/stop.svg');
+  --icon: url('/_public/icon/mini/stop.svg');
 }
 .mini.stop-circle {
-  --icon: url('/_static/icon/mini/stop-circle.svg');
+  --icon: url('/_public/icon/mini/stop-circle.svg');
 }
 .mini.sun {
-  --icon: url('/_static/icon/mini/sun.svg');
+  --icon: url('/_public/icon/mini/sun.svg');
 }
 .mini.swatch {
-  --icon: url('/_static/icon/mini/swatch.svg');
+  --icon: url('/_public/icon/mini/swatch.svg');
 }
 .mini.table-cells {
-  --icon: url('/_static/icon/mini/table-cells.svg');
+  --icon: url('/_public/icon/mini/table-cells.svg');
 }
 .mini.tag {
-  --icon: url('/_static/icon/mini/tag.svg');
+  --icon: url('/_public/icon/mini/tag.svg');
 }
 .mini.ticket {
-  --icon: url('/_static/icon/mini/ticket.svg');
+  --icon: url('/_public/icon/mini/ticket.svg');
 }
 .mini.trash {
-  --icon: url('/_static/icon/mini/trash.svg');
+  --icon: url('/_public/icon/mini/trash.svg');
 }
 .mini.trophy {
-  --icon: url('/_static/icon/mini/trophy.svg');
+  --icon: url('/_public/icon/mini/trophy.svg');
 }
 .mini.truck {
-  --icon: url('/_static/icon/mini/truck.svg');
+  --icon: url('/_public/icon/mini/truck.svg');
 }
 .mini.tv {
-  --icon: url('/_static/icon/mini/tv.svg');
+  --icon: url('/_public/icon/mini/tv.svg');
 }
 .mini.user {
-  --icon: url('/_static/icon/mini/user.svg');
+  --icon: url('/_public/icon/mini/user.svg');
 }
 .mini.user-circle {
-  --icon: url('/_static/icon/mini/user-circle.svg');
+  --icon: url('/_public/icon/mini/user-circle.svg');
 }
 .mini.user-group {
-  --icon: url('/_static/icon/mini/user-group.svg');
+  --icon: url('/_public/icon/mini/user-group.svg');
 }
 .mini.user-minus {
-  --icon: url('/_static/icon/mini/user-minus.svg');
+  --icon: url('/_public/icon/mini/user-minus.svg');
 }
 .mini.user-plus {
-  --icon: url('/_static/icon/mini/user-plus.svg');
+  --icon: url('/_public/icon/mini/user-plus.svg');
 }
 .mini.users {
-  --icon: url('/_static/icon/mini/users.svg');
+  --icon: url('/_public/icon/mini/users.svg');
 }
 .mini.variable {
-  --icon: url('/_static/icon/mini/variable.svg');
+  --icon: url('/_public/icon/mini/variable.svg');
 }
 .mini.video-camera {
-  --icon: url('/_static/icon/mini/video-camera.svg');
+  --icon: url('/_public/icon/mini/video-camera.svg');
 }
 .mini.video-camera-slash {
-  --icon: url('/_static/icon/mini/video-camera-slash.svg');
+  --icon: url('/_public/icon/mini/video-camera-slash.svg');
 }
 .mini.view-columns {
-  --icon: url('/_static/icon/mini/view-columns.svg');
+  --icon: url('/_public/icon/mini/view-columns.svg');
 }
 .mini.viewfinder-circle {
-  --icon: url('/_static/icon/mini/viewfinder-circle.svg');
+  --icon: url('/_public/icon/mini/viewfinder-circle.svg');
 }
 .mini.wallet {
-  --icon: url('/_static/icon/mini/wallet.svg');
+  --icon: url('/_public/icon/mini/wallet.svg');
 }
 .mini.wifi {
-  --icon: url('/_static/icon/mini/wifi.svg');
+  --icon: url('/_public/icon/mini/wifi.svg');
 }
 .mini.window {
-  --icon: url('/_static/icon/mini/window.svg');
+  --icon: url('/_public/icon/mini/window.svg');
 }
 .mini.wrench {
-  --icon: url('/_static/icon/mini/wrench.svg');
+  --icon: url('/_public/icon/mini/wrench.svg');
 }
 .mini.wrench-screwdriver {
-  --icon: url('/_static/icon/mini/wrench-screwdriver.svg');
+  --icon: url('/_public/icon/mini/wrench-screwdriver.svg');
 }
 .mini.x-circle {
-  --icon: url('/_static/icon/mini/x-circle.svg');
+  --icon: url('/_public/icon/mini/x-circle.svg');
 }
 .mini.x-mark {
-  --icon: url('/_static/icon/mini/x-mark.svg');
+  --icon: url('/_public/icon/mini/x-mark.svg');
 }
